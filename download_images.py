@@ -35,8 +35,7 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
-        'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Referer': 'https://products.kerakoll.com/',
+        'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7'
     }
     
     # Puliamo il nome del file
@@ -96,12 +95,16 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
     
     return None
 
-def create_updated_csv(original_csv_path, folder_name, download_results):
+def create_updated_csv(original_csv_path, images_folder_name, download_results):
     """Crea una copia del CSV originale sostituendo gli URL con i path locali."""
+    # Creiamo la cartella local_csv se non esiste
+    local_csv_folder = Path("local_csv")
+    local_csv_folder.mkdir(exist_ok=True)
+    
     # Nome del nuovo file CSV
     csv_filename = os.path.basename(original_csv_path)
     new_csv_name = f"{os.path.splitext(csv_filename)[0]}_local.csv"
-    new_csv_path = os.path.join(folder_name, new_csv_name)
+    new_csv_path = os.path.join(local_csv_folder, new_csv_name)
     
     # Leggiamo il CSV originale e creiamo quello nuovo
     with open(original_csv_path, 'r', encoding='utf-8') as input_file, \
@@ -118,7 +121,7 @@ def create_updated_csv(original_csv_path, folder_name, download_results):
                 # Se abbiamo scaricato con successo l'immagine, sostituiamo l'URL
                 if name in download_results and download_results[name] is not None:
                     # Path assoluto alla cartella delle immagini
-                    abs_path = os.path.abspath(os.path.join(folder_name, download_results[name]))
+                    abs_path = os.path.abspath(os.path.join(images_folder_name, download_results[name]))
                     row['image_url'] = abs_path
                 # Se il download è fallito, manteniamo l'URL originale
             writer.writerow(row)
@@ -132,12 +135,13 @@ def process_csv(csv_file_path, max_workers=3, continue_from=None):
     csv_filename = os.path.basename(csv_file_path)
     folder_name = os.path.splitext(csv_filename)[0]
     
-    # Creiamo la cartella di destinazione
+    # Creiamo la cartella di destinazione per le immagini
     save_path = Path(folder_name)
     save_path.mkdir(exist_ok=True)
     
     logger.info(f"File CSV: {csv_file_path}")
-    logger.info(f"Cartella di output: {save_path}")
+    logger.info(f"Cartella di output immagini: {save_path}")
+    logger.info(f"Cartella di output CSV: local_csv/")
     
     # Leggiamo il file CSV
     image_urls = {}
@@ -194,7 +198,7 @@ def process_csv(csv_file_path, max_workers=3, continue_from=None):
                 failed_downloads.append((i, name, url))
                 download_results[name] = None
     
-    # Creiamo il nuovo CSV con i path locali
+    # Creiamo il nuovo CSV con i path locali nella cartella local_csv/
     new_csv_path = create_updated_csv(csv_file_path, folder_name, download_results)
     
     logger.info(f"\nOperazione completata!")
