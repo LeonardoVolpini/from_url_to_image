@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+download_log.txt
+failed_downloads.txt
+*old.csv
+*.webp
