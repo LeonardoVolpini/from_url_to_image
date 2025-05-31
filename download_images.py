@@ -43,16 +43,18 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
     safe_filename = clean_filename(name)
     
     # Il nuovo percorso del file con estensione WebP
-    webp_path = os.path.join(save_path, f"{safe_filename}.webp")
+    webp_filename = f"{safe_filename}.webp"
+    webp_path = os.path.join(save_path, webp_filename)
     
     # Se il file esiste già, aggiungiamo un indice
     if os.path.exists(webp_path):
-        webp_path = os.path.join(save_path, f"{safe_filename}_{index}.webp")
+        webp_filename = f"{safe_filename}_{index}.webp"
+        webp_path = os.path.join(save_path, webp_filename)
     
     # Se il file convertito esiste già, lo saltiamo
     if os.path.exists(webp_path):
         logger.info(f"[{index}/{total}] Il file esiste già: {webp_path}")
-        return True
+        return webp_filename  
     
     # Aggiungiamo un ritardo casuale prima di ogni richiesta per evitare di essere bloccati
     time.sleep(random.uniform(0.5, 2.0))
@@ -70,7 +72,7 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
                 img.save(webp_path, 'WEBP', quality=85)
                 
                 logger.info(f"[{index}/{total}] Scaricata e convertita: {url} -> {webp_path}")
-                return True
+                return webp_filename  
             elif response.status_code == 429:  # Too Many Requests
                 wait_time = retry_delay * (2 ** (attempt - 1))  # Backoff esponenziale
                 logger.warning(f"[{index}/{total}] Rate limit raggiunto (429). Tentativo {attempt}/{max_retries}. Attesa di {wait_time} secondi...")
@@ -82,7 +84,7 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
                     logger.info(f"Tentativo {attempt}/{max_retries}. Attesa di {wait_time} secondi...")
                     time.sleep(wait_time)
                 else:
-                    return False
+                    return None
         except Exception as e:
             logger.error(f"[{index}/{total}] ERRORE durante il download/conversione di {url}: {str(e)}")
             if attempt < max_retries:
@@ -90,9 +92,39 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
                 logger.info(f"Tentativo {attempt}/{max_retries}. Attesa di {wait_time} secondi...")
                 time.sleep(wait_time)
             else:
-                return False
+                return None
     
-    return False
+    return None
+
+def create_updated_csv(original_csv_path, folder_name, download_results):
+    """Crea una copia del CSV originale sostituendo gli URL con i path locali."""
+    # Nome del nuovo file CSV
+    csv_filename = os.path.basename(original_csv_path)
+    new_csv_name = f"{os.path.splitext(csv_filename)[0]}_local.csv"
+    new_csv_path = os.path.join(folder_name, new_csv_name)
+    
+    # Leggiamo il CSV originale e creiamo quello nuovo
+    with open(original_csv_path, 'r', encoding='utf-8') as input_file, \
+         open(new_csv_path, 'w', encoding='utf-8', newline='') as output_file:
+        
+        reader = csv.DictReader(input_file)
+        fieldnames = reader.fieldnames
+        writer = csv.DictWriter(output_file, fieldnames=fieldnames)
+        writer.writeheader()
+        
+        for row in reader:
+            if 'image_url' in row and 'name' in row and row['name']:
+                name = row['name'].strip().replace(' ', '_')
+                # Se abbiamo scaricato con successo l'immagine, sostituiamo l'URL
+                if name in download_results and download_results[name] is not None:
+                    # Path assoluto alla cartella delle immagini
+                    abs_path = os.path.abspath(os.path.join(folder_name, download_results[name]))
+                    row['image_url'] = abs_path
+                # Se il download è fallito, manteniamo l'URL originale
+            writer.writerow(row)
+    
+    logger.info(f"Creato nuovo CSV con path locali (assoluti): {new_csv_path}")
+    return new_csv_path
 
 def process_csv(csv_file_path, max_workers=3, continue_from=None):
     """Processa il file CSV e scarica/converte tutte le immagini."""
@@ -136,6 +168,7 @@ def process_csv(csv_file_path, max_workers=3, continue_from=None):
     # Scarichiamo e convertiamo tutte le immagini con un ThreadPoolExecutor
     successful_downloads = 0
     failed_downloads = []
+    download_results = {}  # Dizionario per tracciare i risultati dei download
     
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = []
@@ -149,16 +182,24 @@ def process_csv(csv_file_path, max_workers=3, continue_from=None):
         # Raccogliamo i risultati
         for i, name, url, future in futures:
             try:
-                if future.result():
+                result = future.result()
+                if result is not None:
                     successful_downloads += 1
+                    download_results[name] = result  # Salviamo il nome del file scaricato
                 else:
                     failed_downloads.append((i, name, url))
+                    download_results[name] = None  # Segniamo il fallimento
             except Exception as e:
                 logger.error(f"Errore nell'esecuzione del download {i} ({name}): {e}")
                 failed_downloads.append((i, name, url))
+                download_results[name] = None
+    
+    # Creiamo il nuovo CSV con i path locali
+    new_csv_path = create_updated_csv(csv_file_path, folder_name, download_results)
     
     logger.info(f"\nOperazione completata!")
     logger.info(f"Immagini scaricate e convertite con successo: {successful_downloads}/{len(image_urls)}")
+    logger.info(f"CSV aggiornato creato: {new_csv_path}")
     
     # Salva gli URL falliti in un file per un eventuale retry
     if failed_downloads:
