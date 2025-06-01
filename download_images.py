@@ -23,8 +23,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 def clean_filename(filename):
-    """Pulisce il nome del file rimuovendo caratteri non validi."""
-    invalid_chars = '<>:"/\\|?*'
+    """Pulisce il nome del file rimuovendo caratteri non validi, spazi, a capo e tabulazioni."""
+    invalid_chars = '<>:"/\\|?*\n\r\t '
     for char in invalid_chars:
         filename = filename.replace(char, '_')
     return filename
@@ -33,7 +33,11 @@ def download_and_convert_image(url, save_path, name, index, total, retry_delay=5
     """Scarica un'immagine dall'URL e la converte in WebP con gestione dei tentativi."""
     # Configuriamo uno User-Agent realistico
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'User-Agent': (
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+        'AppleWebKit/537.36 (KHTML, like Gecko) '
+        'Chrome/91.0.4472.124 Safari/537.36'
+        ),
         'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
         'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7'
     }
