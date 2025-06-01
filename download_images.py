@@ -120,13 +120,13 @@ def create_updated_csv(original_csv_path, images_folder_name, download_results):
                 name = row['name'].strip().replace(' ', '_')
                 # Se abbiamo scaricato con successo l'immagine, sostituiamo l'URL
                 if name in download_results and download_results[name] is not None:
-                    # Path assoluto alla cartella delle immagini
-                    abs_path = os.path.abspath(os.path.join(images_folder_name, download_results[name]))
-                    row['image_url'] = abs_path
+                    # Path relativo: /images/nome_csv/nome_file.webp
+                    relative_path = f"/images/{images_folder_name}/{download_results[name]}"
+                    row['image_url'] = relative_path
                 # Se il download è fallito, manteniamo l'URL originale
             writer.writerow(row)
     
-    logger.info(f"Creato nuovo CSV con path locali (assoluti): {new_csv_path}")
+    logger.info(f"Creato nuovo CSV con path locali relativi: {new_csv_path}")
     return new_csv_path
 
 def process_csv(csv_file_path, max_workers=3, continue_from=None):
