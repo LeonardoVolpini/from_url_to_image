@@ -195,5 +195,5 @@ cython_debug/
 
 download_log.txt
 failed_downloads.txt
-*.csv
+old_csv/*.csv
 *.webp
