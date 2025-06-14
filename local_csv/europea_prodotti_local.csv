@@ -1,0 +1,257 @@
+name,brand,image_url,descrizione
+TIRATUTTO 125,l'Europea,/images/europea_prodotti/TIRATUTTO125.webp,"versione	
+125 T.S. tiro semplice capacità 100Kg
+125 T.D. tiro doppio capacità 200Kg
+codice	
+TT125S12T0
+TT125S12T1
+Alimentazione	monofase
+Tensione	230 V
+Frequenza	50 Hz
+Potenza motore	450 W
+Portata massima	200 Kg
+Tiro utile	11 M
+Tiro utile massimo	11 M
+Velocità di salita	5-10 M/min
+Diametro fune	3 mm
+Peso elevatore	11 Kg
+Carico rottura fune	1200 > Kg"
+TIRATUTTO 200,l'Europea,/images/europea_prodotti/TIRATUTTO200.webp,"versione	
+200 T.S. tiro semplice
+200 T.D. tiro doppio
+codice	
+TT200S18T0
+TT200S18T1
+Alimentazione	monofase
+Tensione	230 V
+Frequenza	50 Hz
+Potenza motore	750 W
+Portata massima	400 Kg
+Tiro utile	10 M
+Tiro utile massimo	18 M
+Velocità di salita	5-10 M/min
+Diametro fune	4 mm
+Peso elevatore	16 Kg
+Carico rottura fune	1600 > Kg"
+HE 200,l'Europea,/images/europea_prodotti/HE200.webp,"versione	
+200 - 200 con telecomando 24v
+APS - APS con telecomando 24v
+codice	
+HE200S25P8 - HE200S25C8
+HE200S25P9 - HE200S25C9
+Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	750 W
+Portata massima	200 Kg
+Tiro utile	25 M
+Tiro utile massimo	35 M
+Velocità di salita	23 M/min
+Diametro fune	4 mm
+Peso elevatore	37 Kg
+Dimensioni mm	690 x 210 x 350"
+HE 200 Veloce,l'Europea,/images/europea_prodotti/HE200Veloce.webp,"versione	
+200 VELOCE - 200 VELOCE Telecomando 24v
+APS VELOCE - APS VELOCE Telecomando 24v
+codice	
+HE200S40PA - HE200S40C0
+HE200S40P9 - HE200S40C1
+Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1350 W
+Portata massima	200 Kg
+Tiro utile	40 M
+Velocità di salita	39 M/min
+Diametro fune	4 mm
+Peso elevatore	39 Kg
+Dimensioni mm	690 x 210 x 350"
+HE 150 Veloce,l'Europea,/images/europea_prodotti/HE150Veloce.webp,"versione	
+base
+Con Telecomando 24v
+codice	
+HE150S40P2
+HE150S40C1
+Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1000 W
+Portata massima	150 Kg
+Tiro utile	40 M
+Velocità di salita	33 M/min
+Diametro fune	4 mm
+Peso elevatore	40 Kg
+Dimensioni mm	830 x 270 x 520"
+HE 235,l'Europea,/images/europea_prodotti/HE235.webp,"versione	
+base
+Con Telecomando a 24v
+codice	
+HE235S25P5
+HE235S25C2
+Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	750 W
+Portata massima	200 Kg
+Tiro utile	25 M
+Tiro utile massimo	35 M
+Velocità di salita	23 M/min
+Diametro fune	5 mm
+Peso elevatore	40 Kg
+Dimensioni mm	830 x 270 x 520"
+HE 300 MF,l'Europea,/images/europea_prodotti/HE300MF.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1100 W
+Portata massima	300 Kg
+Tiro utile	25 M
+Tiro utile massimo	40 M
+Velocità di salita	23 M/min
+Diametro fune	6 mm
+Peso elevatore	48 Kg
+Dimensioni mm	860 x 320 x 530"
+HE 500 MF Tiro Doppio,l'Europea,/images/europea_prodotti/HE500MFTiroDoppio.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1100 W
+Portata massima	500 Kg
+Tiro utile	25 M
+Tiro utile massimo	40 M
+Velocità di salita	11,5 M/min
+Diametro fune	5 mm
+Peso elevatore	55 Kg
+Dimensioni mm	860 x 320 x 550"
+HE 500 MF Tiro Singolo,l'Europea,/images/europea_prodotti/HE500MFTiroSingolo.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1500 W
+Portata massima	500 Kg
+Tiro utile	25 M
+Tiro utile massimo	40 M
+Velocità di salita	23 M/min
+Diametro fune	7 mm
+Peso elevatore	48 Kg
+Dimensioni mm	860 x 320 x 530"
+HE 500 TF,l'Europea,/images/europea_prodotti/HE500TF.webp,"Alimentazione	trifase
+Tensione	380 V
+Frequenza	50 Hz
+Potenza motore	1850 W
+Portata massima	500 Kg
+Tiro utile	25 M
+Tiro utile massimo	40 M
+Velocità di salita	24 M/min
+Diametro fune	7 mm
+Peso elevatore	50 Kg
+Dimensioni mm	860 x 320 x 530"
+HE 800 MF,l'Europea,/images/europea_prodotti/HE800MF.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1500 W
+Portata massima	800 Kg
+Tiro utile	25 M
+Tiro utile massimo	40 M
+Velocità di salita	11,5 M/min
+Diametro fune	6 mm
+Peso elevatore	60 Kg
+Dimensioni mm	860 x 320 x 570"
+HE 800 TF,l'Europea,/images/europea_prodotti/HE800TF.webp,"Alimentazione	trifase
+Tensione	380 V
+Frequenza	50 Hz
+Potenza motore	1850 W
+Portata massima	800 Kg
+Tiro utile	25 M
+Tiro utile massimo	40 M
+Velocità di salita	12 M/min
+Diametro fune	6 mm
+Peso elevatore	60 Kg
+Dimensioni mm	860 x 320 x 570"
+HE 1000 TF,l'Europea,/images/europea_prodotti/HE1000TF.webp,"Alimentazione	trifase
+Tensione	380 V
+Frequenza	50 Hz
+Potenza motore	3,5 Hp
+Portata massima	1000 Kg
+Tiro utile	40 M
+Velocità di salita	12 M/min
+Diametro fune	7 mm
+Peso elevatore	62 Kg
+Dimensioni mm	860 x 320 x 570"
+HE 1600 TF,l'Europea,/images/europea_prodotti/HE1600TF.webp,"Alimentazione	trifase
+Tensione	380 V
+Frequenza	50 Hz
+Potenza motore	3,72 Hp
+Portata massima	1600 Kg
+Tiro utile	35 M
+Velocità di salita	11,5 M/min
+Diametro fune	8 mm
+Peso elevatore	67 Kg
+Dimensioni mm	755 x 280 x 430"
+HE 325,l'Europea,/images/europea_prodotti/HE325.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	1500 W
+Portata massima	300 Kg
+Tiro utile	50 M
+Velocità di salita	24 M/min
+Diametro fune	6 mm
+Peso elevatore	60 Kg
+Dimensioni mm	1060 x 400 x 640"
+HE 360,l'Europea,/images/europea_prodotti/HE360.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	2 Hp
+Potenza motore	1500 W
+Portata massima	300 Kg
+Tiro utile	60 M
+Velocità di salita	22 M/min
+Peso elevatore	120 Kg
+Dimensioni mm	540 x 2200 x 610"
+HE 525 MF,l'Europea,/images/europea_prodotti/HE525MF.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	2 Hp
+Potenza motore	1500 W
+Portata massima	500 Kg
+Tiro utile	60 M
+Velocità di salita	22 M/min
+Peso elevatore	120 Kg
+Dimensioni mm	540 x 2200 x 610"
+HE 525 TF,l'Europea,/images/europea_prodotti/HE525TF.webp,"Alimentazione	trifase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	3,4 Hp
+Potenza motore	2500 W
+Portata massima	500 Kg
+Tiro utile	60 M
+Velocità di salita	22 M/min
+Peso elevatore	120 Kg
+Dimensioni mm	540 x 2200 x 610"
+HE 725 TF,l'Europea,/images/europea_prodotti/HE725TF.webp,"Alimentazione	trifase
+Tensione	380 V
+Frequenza	50 Hz
+Potenza motore	4 Hp
+Potenza motore	3000 W
+Portata massima	700 Kg
+Tiro utile	60 M
+Velocità di salita	22 M/min
+Diametro fune	7 mm
+Peso elevatore	135 Kg
+Dimensioni mm	2620X3000X2150"
+HG 200,l'Europea,/images/europea_prodotti/HG200.webp,"Alimentazione	monofase
+Tensione	220 V
+Frequenza	50 Hz
+Potenza motore	900 W
+Portata massima	200 Kg
+Tiro utile	50 M
+Tiro utile massimo	100 M
+Velocità di salita	Ver. base 23 - Ver. inverter 7-13-20-33-45 M/min
+Diametro fune	5 mm
+Peso elevatore	53 Kg
+Dimensioni mm	800x300x435"
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

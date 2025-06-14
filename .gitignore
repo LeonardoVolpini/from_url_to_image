@@ -197,3 +197,4 @@ download_log.txt
 failed_downloads.txt
 old_csv/*.csv
 *.webp
+*.png
