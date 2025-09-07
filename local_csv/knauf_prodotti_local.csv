@@ -1,0 +1,843 @@
+name,brand,description,image_url
+"Aquapanel Outdoor 12,5 mm",Knauf,"Lastra in cemento fibrorinforzato per pareti esterne, facciate ventilate e ambienti a diretto contatto con acqua.",/images/knauf_prodotti/AquapanelOutdoor125mm.webp
+Danotile R.U.,Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanotileRU.webp
+"Lastra Diamant (DFHIR) 12,5 mm",Knauf,Lastra in gesso rivestito con fibre minerali per altissima resistenza meccanica,/images/knauf_prodotti/LastraDiamantDFHIR125mm.webp
+"Lastra GKB Advanced 12,5 mm",Knauf,"Lastra in gesso rivestito leggera, con innovativa tecnologia Li-Tek",/images/knauf_prodotti/LastraGKBAdvanced125mm.webp
+CLT C1 THERMAL,Knauf,Doga rigida isolante in lana minerale di roccia lamellare con primer su un lato e bordi smussati,/images/knauf_prodotti/CLTC1THERMAL.webp
+FKD RS,Knauf,Pannello rigido in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/FKDRS.webp
+SmartRoof XTRA,Knauf,Pannello rigido isolante in lana minerale senza rivestimento,/images/knauf_prodotti/SmartRoofXTRA.webp
+TP 432 KD,Knauf,Pannello isolante in lana minerale rivestito con velo vetro bio-based su un lato,/images/knauf_prodotti/TP432KD.webp
+TOPIQ Efficient Pro Hygena 20,Knauf,Pannello in lana di roccia per controsoffitti modulari,/images/knauf_prodotti/TOPIQEfficientProHygena20.webp
+AQUAPANEL® Basecoat,Knauf,Rasante cementizio per lastre Aquapanel,/images/knauf_prodotti/AQUAPANELBasecoat.webp
+Tribon,Knauf,Massetto fluido premiscelato per interni,/images/knauf_prodotti/Tribon.webp
+Fugenfüller Advanced,Knauf,"Stucco in polvere a base di gesso per la stuccatura dei giunti. Spiccato punto di bianco, livello Q4",/images/knauf_prodotti/FugenfüllerAdvanced.webp
+"Profilo montante C 50/75/50 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC507550sp06mm.webp
+Serie KS38 Profilo portante T 24/38,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38ProfiloportanteT2438.webp
+Autolivellina NE 425 Advanced,Knauf,Massetto autolivellante a basso spessore per impianti radianti,/images/knauf_prodotti/AutolivellinaNE425Advanced.webp
+Massetto fluido FE 80 Termico Advanced,Knauf,Massetto fluido premiscelato per interni ad alta conducibilità termica,/images/knauf_prodotti/MassettofluidoFE80TermicoAdvanced.webp
+Lastra Fireboard 25 mm,Knauf,Lastra antifuoco in gesso rinforzato con fibre di vetro,/images/knauf_prodotti/LastraFireboard25mm.webp
+"Lastra Kasa 12,5 mm",Knauf,Lastra in gesso rivestito per neutralizzazione degli agenti inquinanti nell'aria,/images/knauf_prodotti/LastraKasa125mm.webp
+"Lastra Silentboard 12,5 mm",Knauf,Lastra in gesso rivestito per isolamento acustico,/images/knauf_prodotti/LastraSilentboard125mm.webp
+"Lastra Vidiwall 12,5 mm",Knauf,Lastra in gessofibra per la massima resistenza meccanica e isolamento acustico,/images/knauf_prodotti/LastraVidiwall125mm.webp
+Deciwool,Knauf,Pannello arrotolato in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/Deciwool.webp
+Naturoll PLUS,Knauf,Rotolo isolante in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturollPLUS.webp
+SmartWall N C1,Knauf,Pannello rigido isolante in lana minerale di roccia con primer su un lato,/images/knauf_prodotti/SmartWallNC1.webp
+Venti Pro,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/VentiPro.webp
+THERMATEX® Alpha One 24,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAlphaOne24.webp
+SM 700,Knauf,Rasante collante per sistema cappotto termico,/images/knauf_prodotti/SM700.webp
+Super finish,Knauf,Stucco pronto in pasta a base gesso per la rasatura delle lastre in cartongesso,/images/knauf_prodotti/Superfinish.webp
+Uniflott,Knauf,Stucco in polvere per la stuccatura dei giunti tra le lastre in cartongesso,/images/knauf_prodotti/Uniflott.webp
+Superlivellina NE 499 Advanced,Knauf,Massetto autolivellante a bassissimo spessore per impianti radianti,/images/knauf_prodotti/SuperlivellinaNE499Advanced.webp
+Ganci e clip,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Gancieclip.webp
+Pendini e ganci Nonius,Knauf,Accessori per sistema di sospensioni Nonius,/images/knauf_prodotti/PendinieganciNonius.webp
+Nastro microforato Kurt,Knauf,Accessori per la stuccatura dei giunti,/images/knauf_prodotti/NastromicroforatoKurt.webp
+"Idrolastra GKI (H) 12,5 mm",Knauf,Lastra in gesso rivestito a ridotto assorbimento di umidità,/images/knauf_prodotti/IdrolastraGKIH125mm.webp
+"Ignilastra GKF (DF) 12,5 mm",Knauf,Lastra in gesso rivestito con fibre minerali per sistemi resistenti al fuoco,/images/knauf_prodotti/IgnilastraGKFDF125mm.webp
+Isolastra Advanced PSE-G,Knauf,Lastra GKB Advanced accoppiata a pannello isolante in polistirolo espanso additivato con grafite (PSE-G) per isolamento termico,/images/knauf_prodotti/IsolastraAdvancedPSE-G.webp
+"Lastra GKB (A) 12,5 mm",Knauf,Lastra in gesso rivestito standard,/images/knauf_prodotti/LastraGKBA125mm.webp
+SmartWall S C1,Knauf,Pannello rigido isolante in lana minerale di roccia con primer su un lato,/images/knauf_prodotti/SmartWallSC1.webp
+Ultracoustic P,Knauf,Pannello isolante in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/UltracousticP.webp
+Ultracoustic R,Knauf,Rotolo isolante in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/UltracousticR.webp
+Venti Pro B,Knauf,Pannello rigido isolante in lana minerale di roccia rivestito con velo vetro nero su un lato,/images/knauf_prodotti/VentiProB.webp
+ECOMIN Orbit Micro 13,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ECOMINOrbitMicro13.webp
+Thermatex Feinstratos Hygena A1 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexFeinstratosHygenaA115.webp
+Roccia di Gambassi,Knauf,Intonaco a base gesso per interni,/images/knauf_prodotti/RocciadiGambassi.webp
+Velvet,Knauf,Finitura liscia pregiata a base di gesso alabastrino,/images/knauf_prodotti/Velvet.webp
+AQUAPANEL® Joint Filler grey,Knauf,Stucco per giunti a base cementizia per lastre Aquapanel,/images/knauf_prodotti/AQUAPANELJointFillergrey.webp
+Fugenfüller Leicht,Knauf,Stucco in polvere a base di gesso per la stuccatura dei giunti,/images/knauf_prodotti/FugenfüllerLeicht.webp
+Profilo C Plus 27/50/27,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti,/images/knauf_prodotti/ProfiloCPlus275027.webp
+Aquapanel Maxi Screws punta chiodo,Knauf,Viti per fissaggio di lastre Aquapanel su orditura metallica,/images/knauf_prodotti/AquapanelMaxiScrewspuntachiodo.webp
+SmartWall FKL,Knauf,Pannello rigido isolante in lana minerale di roccia lamellare senza rivestimento,/images/knauf_prodotti/SmartWallFKL.webp
+SmartWall N 500 FB,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartWallN500FB.webp
+TI 212,Knauf,Rotolo isolante in lana minerale di vetro rivestito con carta kraft su un lato con ECOSE® Technology,/images/knauf_prodotti/TI212.webp
+TP 216,Knauf,Pannello isolante in lana minerale di vetro rivestito con carta kraft su un lato con ECOSE® Technology,/images/knauf_prodotti/TP216.webp
+Mineral Wool 32,Knauf,Pannello isolante in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/MineralWool32.webp
+Mineral Wool 32 ALU,Knauf,Pannello isolante in lana minerale di vetro rivestito con carta alluminata su un lato con ECOSE® Technology,/images/knauf_prodotti/MineralWool32ALU.webp
+NaturBoard FORTE,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardFORTE.webp
+NaturBoard PARTITION,Knauf,Pannello semi-rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardPARTITION.webp
+Mineral Wool 32 K,Knauf,Pannello isolante in lana minerale di vetro rivestito con carta kraft su un lato con ECOSE® Technology,/images/knauf_prodotti/MineralWool32K.webp
+Mineral Wool 35,Knauf,Pannello isolante in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/MineralWool35.webp
+NaturBoard PARTITION COMFORT,Knauf,Pannello semi-rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardPARTITIONCOMFORT.webp
+NaturBoard SILENCE,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardSILENCE.webp
+KI FIT 040,Knauf,Rotolo isolante in lana minerale di vetro senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/KIFIT040.webp
+NaturBoard SILENCE ALU,Knauf,Pannello rigido isolante in lana minerale di roccia rivestito con alluminio retinato PE su un lato con ECOSE® Technology,/images/knauf_prodotti/NaturBoardSILENCEALU.webp
+NaturBoard SILENCE B,Knauf,Pannello rigido isolante in lana minerale di roccia rivestito con velo vetro nero su un lato con ECOSE® Technology,/images/knauf_prodotti/NaturBoardSILENCEB.webp
+SmartFacade 32 BP,Knauf,Pannello isolante in lana minerale di vetro rivestito con velo vetro nero su un lato con ECOSE® Technology,/images/knauf_prodotti/SmartFacade32BP.webp
+NaturBoard SILENCE K,Knauf,Pannello rigido isolante in lana minerale di roccia rivestito su un lato con carta kraft con ECOSE® Technology,/images/knauf_prodotti/NaturBoardSILENCEK.webp
+NaturBoard TIMBER,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardTIMBER.webp
+NaturBoard TIMBER COMFORT,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardTIMBERCOMFORT.webp
+NaturBoard TPT,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardTPT.webp
+NaturBoard WALLS,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento con ECOSE® Technology,/images/knauf_prodotti/NaturBoardWALLS.webp
+SmartRoof All-Fix THERMAL,Knauf,Pannello rigido isolante in lana minerale di roccia rivestito su un lato con velo vetro rinforzato,/images/knauf_prodotti/SmartRoofAll-FixTHERMAL.webp
+SmartRoof BASE,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartRoofBASE.webp
+SmartRoof PRO,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartRoofPRO.webp
+SmartRoof THERMAL,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartRoofTHERMAL.webp
+SmartRoof TOP,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartRoofTOP.webp
+SmartRoof ULTRA,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartRoofULTRA.webp
+SmartWall FKD S THERMAL,Knauf,Pannello rigido isolante in lana minerale di roccia senza rivestimento,/images/knauf_prodotti/SmartWallFKDSTHERMAL.webp
+SUPAFIL LOFT 045,Knauf,Lana minerale di vetro per insufflaggio,/images/knauf_prodotti/SUPAFILLOFT045.webp
+SUPAFIL MULTI,Knauf,Lana minerale di vetro per insufflaggio,/images/knauf_prodotti/SUPAFILMULTI.webp
+"Aquapanel Indoor 12,5 mm",Knauf,"Lastra in cemento fibrorinforzato per interni, ideale per ambienti umidi e bagnati",/images/knauf_prodotti/AquapanelIndoor125mm.webp
+"Aquapanel Rooftop 12,5 mm",Knauf,"Lastra in cemento fibrorinforzato, ideale per coperture a bassa pendenza.",/images/knauf_prodotti/AquapanelRooftop125mm.webp
+Aquapanel Rooftop 6 mm,Knauf,"Lastra in cemento fibrorinforzato, ideale per coperture a bassa pendenza.",/images/knauf_prodotti/AquapanelRooftop6mm.webp
+Aquapanel Skylite 8 mm,Knauf,"Lastra in cemento fibrorinforzato per soffitti, per applicazioni in interni ed esterni",/images/knauf_prodotti/AquapanelSkylite8mm.webp
+Danoline Globe G1 Belgravia (E15),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineGlobeG1BelgraviaE15.webp
+Danoline Globe G1 Belgravia (E24),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineGlobeG1BelgraviaE24.webp
+Danoline Globe G1 Contur (D),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineGlobeG1ConturD.webp
+Danoline Globe G1 Corridor,Knauf,Pannello in gesso rivestito per controsoffitto modulare autoportante,/images/knauf_prodotti/DanolineGlobeG1Corridor.webp
+Danoline Globe G1 Plaza (A),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanolineGlobeG1PlazaA.webp
+Danoline Micro M1 Belgravia (E15),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineMicroM1BelgraviaE15.webp
+Danoline Micro M1 Belgravia (E24),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineMicroM1BelgraviaE24.webp
+Danoline Micro M1 Contur (D),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineMicroM1ConturD.webp
+Danoline Micro M1 Corridor,Knauf,Pannello in gesso rivestito per controsoffitto modulare autoportante,/images/knauf_prodotti/DanolineMicroM1Corridor.webp
+Danoline Micro M1 Plaza (A),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanolineMicroM1PlazaA.webp
+Danoline Quadril Q1 Belgravia (E15),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineQuadrilQ1BelgraviaE15.webp
+Danoline Quadril Q1 Belgravia (E24),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineQuadrilQ1BelgraviaE24.webp
+Danoline Quadril Q1 Contur (D),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineQuadrilQ1ConturD.webp
+Danoline Quadril Q1 Corridor,Knauf,Pannello in gesso rivestito per controsoffitto modulare autoportante,/images/knauf_prodotti/DanolineQuadrilQ1Corridor.webp
+Danoline Quadril Q1 Plaza (A),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanolineQuadrilQ1PlazaA.webp
+Danoline Regula R Belgravia (E15),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineRegulaRBelgraviaE15.webp
+Danoline Regula R Belgravia (E24),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineRegulaRBelgraviaE24.webp
+Danoline Regula R Contur (D),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineRegulaRConturD.webp
+Danoline Regula R Corridor,Knauf,Pannello in gesso rivestito per controsoffitto modulare autoportante,/images/knauf_prodotti/DanolineRegulaRCorridor.webp
+Danoline Regula R Plaza (A),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanolineRegulaRPlazaA.webp
+Danoline Tangent T1 Belgravia (E15),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineTangentT1BelgraviaE15.webp
+Danoline Tangent T1 Belgravia (E24),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineTangentT1BelgraviaE24.webp
+Danoline Tangent T1 Contur (D),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineTangentT1ConturD.webp
+Danoline Tangent T1 Corridor,Knauf,Pannello in gesso rivestito per controsoffitto modulare autoportante,/images/knauf_prodotti/DanolineTangentT1Corridor.webp
+Danoline Tangent T1 Plaza (A),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanolineTangentT1PlazaA.webp
+Danoline Unity 3 Belgravia (E+),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineUnity3BelgraviaE.webp
+Danoline Unity 3 Contur (D+),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineUnity3ConturD.webp
+Danoline Unity 4 Belgravia (E15),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T semi-nascosta,/images/knauf_prodotti/DanolineUnity4BelgraviaE15.webp
+Danoline Unity 4 Contur (D+),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineUnity4ConturD.webp
+Danoline Unity 8/15/20 Contur (D+),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T nascosta,/images/knauf_prodotti/DanolineUnity81520ConturD.webp
+Danotile Regula (A),Knauf,Pannello in gesso rivestito per controsoffitto modulare con orditura a T a vista,/images/knauf_prodotti/DanotileRegulaA.webp
+"Fine Thermal Board 6,5+3 mm",Knauf,Lastra accoppiata a spessore ridotto contro la formazione di condense e muffe,/images/knauf_prodotti/FineThermalBoard653mm.webp
+"Fine Thermal Board 6,5+6 mm",Knauf,Lastra accoppiata a spessore ridotto contro la formazione di condense e muffe,/images/knauf_prodotti/FineThermalBoard656mm.webp
+"Fine Thermal Board 6,5+9 mm",Knauf,Lastra accoppiata a spessore ridotto contro la formazione di condense e muffe,/images/knauf_prodotti/FineThermalBoard659mm.webp
+"Flexilastra 6,5 mm",Knauf,"Lastra in gesso rivestito a spessore ridotto, altamente flessibile per sistemi curvi",/images/knauf_prodotti/Flexilastra65mm.webp
+Ignilastra GKF (DF) 15 mm,Knauf,Lastra in gesso rivestito con fibre minerali per sistemi resistenti al fuoco,/images/knauf_prodotti/IgnilastraGKFDF15mm.webp
+Ignilastra GKF (DF) 25 mm,Knauf,Lastra in gesso rivestito con fibre minerali per sistemi resistenti al fuoco,/images/knauf_prodotti/IgnilastraGKFDF25mm.webp
+Isolastra Advanced LM 85,Knauf,Lastra GKB Advanced accoppiata a pannello isolante in lana minerale (LM) per isolamento termoacustico,/images/knauf_prodotti/IsolastraAdvancedLM85.webp
+Isolastra Advanced PSE-B,Knauf,Lastra GKB Advanced accoppiata a pannello isolante in polistirolo espanso bianco (PSE-B) per isolamento termico,/images/knauf_prodotti/IsolastraAdvancedPSE-B.webp
+Isolastra Advanced PU,Knauf,Lastra GKB Advanced accoppiata a pannello isolante in poliuretano espanso (PU) per isolamento termico,/images/knauf_prodotti/IsolastraAdvancedPU.webp
+Isolastra Advanced XPS,Knauf,Lastra GKB Advanced accoppiata a pannello isolante in polistirene estruso (XPS) per isolamento termico,/images/knauf_prodotti/IsolastraAdvancedXPS.webp
+"Lastra A-Zero 12,5 mm",Knauf,"Lastra in gesso rivestito standard, in classe di reazione al fuoco A1",/images/knauf_prodotti/LastraA-Zero125mm.webp
+Lastra Brio 18 mm,Knauf,Lastra in gessofibra per sottofondi a secco,/images/knauf_prodotti/LastraBrio18mm.webp
+Lastra Brio 23 mm,Knauf,Lastra in gessofibra per sottofondi a secco,/images/knauf_prodotti/LastraBrio23mm.webp
+Lastra Cleaneo Thermoboard Forata 10 mm,Knauf,Lastra in gesso rivestito per controsoffitti radianti forata,/images/knauf_prodotti/LastraCleaneoThermoboardForata10mm.webp
+Lastra Cleaneo Thermoboard Plus Forata 10 mm,Knauf,Lastra in gesso rivestito per controsoffitti radianti additivata con grafite forata,/images/knauf_prodotti/LastraCleaneoThermoboardPlusForata10mm.webp
+Lastra Diamant Phono 23 mm,Knauf,Lastra Diamant accoppiata a pannello isolante in fibra di poliestere (FPE) per isolamento acustico,/images/knauf_prodotti/LastraDiamantPhono23mm.webp
+Lastra Diamant Phono 33 mm,Knauf,Lastra Diamant accoppiata a pannello isolante in fibra di poliestere (FPE) per isolamento acustico,/images/knauf_prodotti/LastraDiamantPhono33mm.webp
+"Lastra Diamant X 12,5 mm",Knauf,Lastra in gesso rivestito con fibre minerali per altissima resistenza meccanica utilizzabile come controvento in pareti intelaiate di legno,/images/knauf_prodotti/LastraDiamantX125mm.webp
+"Lastra F-Zero 12,5 mm",Knauf,"Lastra in gesso rivestito con fibre minerali per sistemi resistenti al fuoco, in classe di reazione al fuoco A1",/images/knauf_prodotti/LastraF-Zero125mm.webp
+Lastra F-Zero 15 mm,Knauf,"Lastra in gesso rivestito con fibre minerali per sistemi resistenti al fuoco, in classe di reazione al fuoco A1",/images/knauf_prodotti/LastraF-Zero15mm.webp
+"Lastra Fireboard 12,5 mm",Knauf,Lastra antifuoco in gesso rinforzato con fibre di vetro,/images/knauf_prodotti/LastraFireboard125mm.webp
+Lastra Fireboard 15 mm,Knauf,Lastra antifuoco in gesso rinforzato con fibre di vetro,/images/knauf_prodotti/LastraFireboard15mm.webp
+Lastra Fireboard 20 mm,Knauf,Lastra antifuoco in gesso rinforzato con fibre di vetro,/images/knauf_prodotti/LastraFireboard20mm.webp
+Lastra Fireboard 30 mm,Knauf,Lastra antifuoco in gesso rinforzato con fibre di vetro,/images/knauf_prodotti/LastraFireboard30mm.webp
+Lastra Forata Cleaneo 10/23R UFF,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo1023RUFF.webp
+Lastra Forata Cleaneo 12/25Q UFF,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo1225QUFF.webp
+Lastra Forata Cleaneo 12/25R UFF,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo1225RUFF.webp
+Lastra Forata Cleaneo 6/18R UFF,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo618RUFF.webp
+Lastra Forata Cleaneo 8/15/20R 4SK,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo81520R4SK.webp
+Lastra Forata Cleaneo 8/18Q UFF,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo818QUFF.webp
+Lastra Forata Cleaneo 8/18R UFF,Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneo818RUFF.webp
+"Lastra Forata Cleaneo SK 10/23 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK1023R125.webp
+"Lastra Forata Cleaneo SK 12/20/35 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK122035R125.webp
+"Lastra Forata Cleaneo SK 12/20/66 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK122066R125.webp
+"Lastra Forata Cleaneo SK 12/25 Q 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK1225Q125.webp
+"Lastra Forata Cleaneo SK 12/25 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK1225R125.webp
+"Lastra Forata Cleaneo SK 15/30 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK1530R125.webp
+"Lastra Forata Cleaneo SK 6/18 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK618R125.webp
+"Lastra Forata Cleaneo SK 8/12/50 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK81250R125.webp
+"Lastra Forata Cleaneo SK 8/18 Q 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK818Q125.webp
+"Lastra Forata Cleaneo SK 8/18 R 12,5",Knauf,Lastra in gesso rivestito forata ad azione fonoassorbente con effetto di depurazione dell’aria,/images/knauf_prodotti/LastraForataCleaneoSK818R125.webp
+Lastra GKB (A) 15 mm,Knauf,Lastra in gesso rivestito standard,/images/knauf_prodotti/LastraGKBA15mm.webp
+Lastra GKB (A) 18 mm,Knauf,Lastra standard in gesso rivestito,/images/knauf_prodotti/LastraGKBA18mm.webp
+"Lastra GKB (A) 9,5 mm",Knauf,Lastra in gesso rivestito standard,/images/knauf_prodotti/LastraGKBA95mm.webp
+Lastra GKB HD 18 mm,Knauf,Lastra in gesso rivestito standard ad alta densità,/images/knauf_prodotti/LastraGKBHD18mm.webp
+"Lastra Kasaok 12,5 mm",Knauf,Lastra in gesso rivestito standard,/images/knauf_prodotti/LastraKasaok125mm.webp
+"Lastra Kasaok Diamant 12,5 mm",Knauf,Lastra in gesso rivestito con fibre minerali per altissima resistenza meccanica,/images/knauf_prodotti/LastraKasaokDiamant125mm.webp
+"Lastra Kasaok Idro 12,5 mm",Knauf,Lastra in gesso rivestito a ridotto assorbimento di umidità,/images/knauf_prodotti/LastraKasaokIdro125mm.webp
+"Lastra Kasaok Igni 12,5 mm",Knauf,Lastra in gesso rivestito con fibre minerali per sistemi resistenti al fuoco,/images/knauf_prodotti/LastraKasaokIgni125mm.webp
+"Lastra Safeboard 12,5 mm",Knauf,Lastra in gesso rivestito per la schermatura dai raggi X,/images/knauf_prodotti/LastraSafeboard125mm.webp
+Lastra Thermoboard 10 mm,Knauf,Lastra in gesso rivestito ad elevata conducibilità termica per controsoffitti radianti,/images/knauf_prodotti/LastraThermoboard10mm.webp
+Lastra Thermoboard Plus 10 mm,Knauf,Lastra in gesso rivestito ad elevata conducibilità termica per controsoffitti radianti additivata con grafite,/images/knauf_prodotti/LastraThermoboardPlus10mm.webp
+"Lastra Vidiphonic 12,5 mm",Knauf,Lastra in gessofibra con elevata densità e potere fonoisolante,/images/knauf_prodotti/LastraVidiphonic125mm.webp
+"Lastra Vidiphonic 12,5 mm",Knauf,Lastra in gessofibra con elevata densità e potere fonoisolante,/images/knauf_prodotti/LastraVidiphonic125mm.webp
+Lastra Vidiwall 10 mm,Knauf,Lastra in gessofibra per la massima resistenza meccanica e isolamento acustico,/images/knauf_prodotti/LastraVidiwall10mm.webp
+Lastra Vidiwall 10 mm,Knauf,Lastra in gessofibra per la massima resistenza meccanica e isolamento acustico,/images/knauf_prodotti/LastraVidiwall10mm.webp
+Lastra Vidiwall 15 mm,Knauf,Lastra in gessofibra per la massima resistenza meccanica e isolamento acustico,/images/knauf_prodotti/LastraVidiwall15mm.webp
+Lastra Vidiwall 18 mm,Knauf,Lastra in gessofibra per la massima resistenza meccanica e isolamento acustico,/images/knauf_prodotti/LastraVidiwall18mm.webp
+"Lastre con barriera al vapore (B.V) 12,5 mm",Knauf,Lastra in gesso rivestito accoppiata a una lamina di alluminio come barriera al vapore,/images/knauf_prodotti/LastreconbarrieraalvaporeBV125mm.webp
+"Lastre con barriera al vapore (B.V) 9,5 mm",Knauf,Lastra in gesso rivestito accoppiata a una lamina di alluminio come barriera al vapore,/images/knauf_prodotti/LastreconbarrieraalvaporeBV95mm.webp
+"Lastre Vidiwall 12,5 mm 4SK",Knauf,Lastra in gessofibra per la massima resistenza meccanica e isolamento acustico.,/images/knauf_prodotti/LastreVidiwall125mm4SK.webp
+Sofipan Bellini 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanBellini22mm.webp
+Sofipan Boccioni 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanBoccioni16mm.webp
+Sofipan Boccioni 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanBoccioni22mm.webp
+Sofipan Botticelli 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanBotticelli22mm.webp
+Sofipan Canova 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanCanova22mm.webp
+Sofipan Cimabue 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanCimabue22mm.webp
+Sofipan Correggio 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanCorreggio22mm.webp
+Sofipan Donatello 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanDonatello22mm.webp
+Sofipan Donatello 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanDonatello22mm.webp
+Sofipan Giorgione 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanGiorgione22mm.webp
+Sofipan Giotto 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanGiotto16mm.webp
+Sofipan Giotto 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanGiotto22mm.webp
+Sofipan Leonardo 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanLeonardo22mm.webp
+Sofipan Mantegna 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMantegna22mm.webp
+Sofipan Masaccio 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMasaccio22mm.webp
+Sofipan Michelangelo 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMichelangelo16mm.webp
+Sofipan Michelangelo 22 mm non verniciato,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMichelangelo22mmnonverniciato.webp
+Sofipan Michelangelo 22 mm verniciato,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMichelangelo22mmverniciato.webp
+Sofipan Morbelli e Modigliani 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMorbellieModigliani16mm.webp
+Sofipan Morbelli e Modigliani 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanMorbellieModigliani22mm.webp
+Sofipan Perugino 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanPerugino22mm.webp
+Sofipan Raffaello 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanRaffaello16mm.webp
+Sofipan Raffaello 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanRaffaello22mm.webp
+Sofipan Signorini 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanSignorini16mm.webp
+Sofipan Signorini 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanSignorini22mm.webp
+Sofipan Tiziano 22 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanTiziano22mm.webp
+Sofipan Vasari 16 mm,Knauf,Pannello in gesso alleggerito per controsoffitti modulari,/images/knauf_prodotti/SofipanVasari16mm.webp
+Spessori in gesso per orditure da 15 mm,Knauf,Accessori per orditure a T per controsoffitti modulari,/images/knauf_prodotti/Spessoriingessoperorditureda15mm.webp
+Spessori in gesso per orditure da 24 mm,Knauf,Accessori per orditure a T per controsoffitti modulari,/images/knauf_prodotti/Spessoriingessoperorditureda24mm.webp
+EPS 030 T150 grigio,Knauf,"Pannello in polistirene espanso addittivato con grafite per sistema cappotto termico, certificato CAM",/images/knauf_prodotti/EPS030T150grigio.webp
+EPS 031 T grigio,Knauf,"Pannello in polistirene espanso addittivato con grafite per sistema cappotto termico, certificato CAM",/images/knauf_prodotti/EPS031Tgrigio.webp
+EPS 036 100 T bianco CAM,Knauf,"Pannello in polistirene espanso bianco per sistema cappotto termico, certificato CAM",/images/knauf_prodotti/EPS036100TbiancoCAM.webp
+EPS grigio detensionato CAM,Knauf,"Pannello in polistirene espanso addittivato con grafite detensionato per sistema cappotto termico, certificato CAM",/images/knauf_prodotti/EPSgrigiodetensionatoCAM.webp
+Extrupor Ripiegato 3 mm,Knauf,Tappetini per pareti 3 mm,/images/knauf_prodotti/ExtruporRipiegato3mm.webp
+Extrupor Ripiegato 6 mm,Knauf,Tappetini per pareti,/images/knauf_prodotti/ExtruporRipiegato6mm.webp
+Feltro per giunto a parete,Knauf,Feltro in fibra minerale per giunto fra pavimento e parete,/images/knauf_prodotti/Feltropergiuntoaparete.webp
+Pannelli riflettenti,Knauf,Pannello riflettente in poliuretano accoppiato con barriera al vapore sulle due facciate.,/images/knauf_prodotti/Pannelliriflettenti.webp
+Polistirene,Knauf,Pannelli di schiuma rigida di polistirene estruso di densità 35 kg/m3.,/images/knauf_prodotti/Polistirene.webp
+Polistirolo,Knauf,Pannelli di polistirene espanso sinterizzato (PSE),/images/knauf_prodotti/Polistirolo.webp
+Polistirolo,Knauf,Pannelli di polistirene espanso sinterizzato (PSE),/images/knauf_prodotti/Polistirolo.webp
+Spalletta EPS B prerasata lai-sys,Knauf,"Accessorio per l'isolamento dei vani finestra, nel sistema cappotto",/images/knauf_prodotti/SpallettaEPSBprerasatalai-sys.webp
+Spalletta LM prerasata lai-sys,Knauf,"Accessorio per l'isolamento dei vani finestra, nel sistema cappotto",/images/knauf_prodotti/SpallettaLMprerasatalai-sys.webp
+Spalletta PU prerasata lai-sys,Knauf,"Accessorio per l'isolamento dei vani finestra, nel sistema cappotto",/images/knauf_prodotti/SpallettaPUprerasatalai-sys.webp
+ADAGIO Acoustic+ 19mm,Knauf,"Perfetto equilibrio tra assorbimento acustico e alta attenuazione, con una superficie luminosa e resistente",/images/knauf_prodotti/ADAGIOAcoustic19mm.webp
+ADAGIO Alpha+,Knauf,Migliora gli spazi aperti con Classe A di assorbimento acustico per un ambiente più tranquillo e concentrato,/images/knauf_prodotti/ADAGIOAlpha.webp
+ADAGIO dB+ 24mm,Knauf,"Eccellente attenuazione acustica e finitura bianca impeccabile, ideale per uffici privati",/images/knauf_prodotti/ADAGIOdB24mm.webp
+ADAGIO dB+ 30mm,Knauf,Massimizza la privacy con un'ottima attenuazione acustica e una superficie bianca resistente,/images/knauf_prodotti/ADAGIOdB30mm.webp
+ADAGIO HD+ 19mm,Knauf,Ottimizza l'acustica con un efficace equilibrio sonoro e una superficie elegante e durevole,/images/knauf_prodotti/ADAGIOHD19mm.webp
+ADAGIO HD+ 30mm,Knauf,"Eleva gli interni con eccellente assorbimento e attenuazione acustica, ideale per le scuole",/images/knauf_prodotti/ADAGIOHD30mm.webp
+ADAGIO HD+ 35mm,Knauf,"Sperimenta un'acustica ottimale con superbo assorbimento, attenuazione e una superficie durevole",/images/knauf_prodotti/ADAGIOHD35mm.webp
+AMF ECOMIN Filigran,Knauf,"Piastrella da soffitto minerale microforata, conveniente e ad alta riflettanza luminosa",/images/knauf_prodotti/AMFECOMINFiligran.webp
+AMF ECOMIN Orbit,Knauf,"Piastrella da soffitto minerale con finitura sabbiata, economica, con bordo dritto",/images/knauf_prodotti/AMFECOMINOrbit.webp
+AMF ECOMIN Orbit Micro,Knauf,Piastrella da soffitto minerale economica con superficie microforata e finitura sabbiata,/images/knauf_prodotti/AMFECOMINOrbitMicro.webp
+AMF ECOMIN Planet,Knauf,"Piastrella da soffitto minerale fessurata, economica",/images/knauf_prodotti/AMFECOMINPlanet.webp
+AMF ECOMIN Trento,Knauf,"Piastrella da soffitto minerale fessurata, economica, con bordo dritto",/images/knauf_prodotti/AMFECOMINTrento.webp
+AMF THERMATEX® Acoustic 19mm,Knauf,Piastrella da soffitto minerale liscia e laminata che offre prestazioni acustiche bilanciate,/images/knauf_prodotti/AMFTHERMATEXAcoustic19mm.webp
+AMF THERMATEX® Acoustic 24mm,Knauf,Piastrella da soffitto minerale liscia e laminata con bordo Vector per un'acustica bilanciata,/images/knauf_prodotti/AMFTHERMATEXAcoustic24mm.webp
+AMF THERMATEX® Alpha,Knauf,Piastrella da soffitto minerale liscia e laminata con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlpha.webp
+AMF THERMATEX® Alpha Colour Black,Knauf,Piastrella da soffitto minerale liscia e laminata nera con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourBlack.webp
+AMF THERMATEX® Alpha Colour Brass,Knauf,Piastrella da soffitto minerale liscia e laminata in ottone con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourBrass.webp
+AMF THERMATEX® Alpha Colour Concrete,Knauf,Piastrella da soffitto minerale liscia e laminata in calcestruzzo con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourConcrete.webp
+AMF THERMATEX® Alpha Colour Copper,Knauf,Piastrella da soffitto minerale liscia e laminata in rame con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourCopper.webp
+AMF THERMATEX® Alpha Colour Cream,Knauf,Piastrella da soffitto minerale liscia e laminata in crema con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourCream.webp
+AMF THERMATEX® Alpha Colour Granite,Knauf,Piastrella da soffitto minerale liscia e laminata in granito con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourGranite.webp
+AMF THERMATEX® Alpha Colour Green Marble,Knauf,Piastrella da soffitto minerale liscia e laminata in marmo verde con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourGreenMarble.webp
+AMF THERMATEX® Alpha Colour Oak,Knauf,Piastrella da soffitto minerale liscia e laminata in rovere con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourOak.webp
+AMF THERMATEX® Alpha Colour Sandstone,Knauf,Piastrella da soffitto minerale liscia e laminata in arenaria con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourSandstone.webp
+AMF THERMATEX® Alpha Colour Silver,Knauf,Piastrella per soffitto minerale liscia laminata in argento con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourSilver.webp
+AMF THERMATEX® Alpha Colour Steel,Knauf,Piastrella per soffitto minerale liscia laminata in acciaio con eccellente assorbimento acustico Classe A,/images/knauf_prodotti/AMFTHERMATEXAlphaColourSteel.webp
+AMF THERMATEX® Alpha HD 19mm,Knauf,Piastrella per soffitto minerale liscia laminata con eccellente assorbimento acustico e buona attenuazione,/images/knauf_prodotti/AMFTHERMATEXAlphaHD19mm.webp
+AMF THERMATEX® Alpha HD 30mm,Knauf,Piastrella per soffitto minerale liscia laminata con eccellente assorbimento e attenuazione acustica,/images/knauf_prodotti/AMFTHERMATEXAlphaHD30mm.webp
+AMF THERMATEX® Alpha HD 35mm,Knauf,Piastrella per soffitto minerale liscia laminata con eccellenti prestazioni acustiche,/images/knauf_prodotti/AMFTHERMATEXAlphaHD35mm.webp
+AMF THERMATEX® Alpha One,Knauf,Piastrella per soffitto minerale liscia laminata con le migliori prestazioni di assorbimento acustico,/images/knauf_prodotti/AMFTHERMATEXAlphaOne.webp
+AMF THERMATEX® Aquatec,Knauf,Piastrella per soffitto minerale liscia laminata con eccellente assorbimento acustico e resistenza all'umidità al 100%,/images/knauf_prodotti/AMFTHERMATEXAquatec.webp
+AMF THERMATEX® dB Acoustic 24mm,Knauf,Piastrella per soffitto minerale liscia laminata da 24 mm con eccellente attenuazione acustica,/images/knauf_prodotti/AMFTHERMATEXdBAcoustic24mm.webp
+AMF THERMATEX® Feinfresko,Knauf,Piastrella per soffitto minerale fessurata con buone prestazioni di assorbimento acustico Classe C,/images/knauf_prodotti/AMFTHERMATEXFeinfresko.webp
+AMF THERMATEX® Feinstratos 15mm,Knauf,Piastrella per soffitto minerale con finitura sabbiata da 15 mm con buona attenuazione acustica,/images/knauf_prodotti/AMFTHERMATEXFeinstratos15mm.webp
+AMF THERMATEX® Feinstratos 19mm,Knauf,Piastrella per soffitto minerale con finitura sabbiata da 19 mm con buona attenuazione acustica,/images/knauf_prodotti/AMFTHERMATEXFeinstratos19mm.webp
+AMF THERMATEX® Feinstratos Micro 15mm,Knauf,Piastrella per soffitto minerale microperforata con finitura sabbiata e buone prestazioni sonore bilanciate,/images/knauf_prodotti/AMFTHERMATEXFeinstratosMicro15mm.webp
+AMF THERMATEX® Feinstratos Micro 19mm,Knauf,Piastrella per soffitto microperforata con finitura sabbiata e buone prestazioni di assorbimento e attenuazione acustica,/images/knauf_prodotti/AMFTHERMATEXFeinstratosMicro19mm.webp
+AMF THERMATEX® Fresko,Knauf,Piastrella per soffitto minerale fessurata con buone prestazioni di assorbimento acustico Classe C,/images/knauf_prodotti/AMFTHERMATEXFresko.webp
+AMF THERMATEX® Mercure,Knauf,Piastrella per soffitto minerale fessurata con buone prestazioni di assorbimento acustico Classe C,/images/knauf_prodotti/AMFTHERMATEXMercure.webp
+AMF THERMATEX® Thermaclean,Knauf,Piastrella per soffitto minerale liscia laminata con pellicola in vinile,/images/knauf_prodotti/AMFTHERMATEXThermaclean.webp
+AMF THERMATEX® Thermofon,Knauf,Piastrella per soffitto minerale liscia con eccellente riflessione della luce e alto assorbimento acustico,/images/knauf_prodotti/AMFTHERMATEXThermofon.webp
+AMF TOPIQ® Efficient Pro,Knauf,Piastrella per soffitto minerale acustica che offre il miglior assorbimento,/images/knauf_prodotti/AMFTOPIQEfficientPro.webp
+AMF TOPIQ® Prime,Knauf,Piastrella per soffitto minerale acustica che offre eccellente assorbimento acustico,/images/knauf_prodotti/AMFTOPIQPrime.webp
+ANTARIS,Knauf,Piastrella minerale laminata che offre un assorbimento acustico di Classe A,/images/knauf_prodotti/ANTARIS.webp
+ANTARIS C,Knauf,Piastrella minerale laminata con un buon assorbimento acustico,/images/knauf_prodotti/ANTARISC.webp
+ECOMIN Filigran 13,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ECOMINFiligran13.webp
+ECOMIN Orbit 13,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ECOMINOrbit13.webp
+Ecomin Planet 13,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/EcominPlanet13.webp
+Gommapiuma,Knauf,Pannello isolante,/images/knauf_prodotti/Gommapiuma.webp
+HERADESIGN® Fine 15mm,Knauf,Pannello per soffitto in lana di legno finemente strutturato da 15 mm con elevate prestazioni acustiche,/images/knauf_prodotti/HERADESIGNFine15mm.webp
+HERADESIGN® Fine 25mm,Knauf,Piastrella acustica in lana di legno finemente strutturata da 25 mm con ottime prestazioni acustiche,/images/knauf_prodotti/HERADESIGNFine25mm.webp
+HERADESIGN® Fine 35mm,Knauf,Piastrella acustica in lana di legno finemente strutturata da 35 mm con eccellenti prestazioni acustiche,/images/knauf_prodotti/HERADESIGNFine35mm.webp
+HERADESIGN® Fine A2 15mm,Knauf,Pannello per soffitto in lana di legno finemente strutturato da 15 mm con prestazioni di reazione al fuoco eccezionali,/images/knauf_prodotti/HERADESIGNFineA215mm.webp
+HERADESIGN® Fine A2 25mm,Knauf,Piastrella acustica in lana di legno finemente strutturata con eccellente resistenza al fuoco e buone prestazioni acustiche,/images/knauf_prodotti/HERADESIGNFineA225mm.webp
+HERADESIGN®️ Fine Alpha+ 35mm,Knauf,Piastrella acustica in lana di legno finemente strutturata da 35 mm con elevato assorbimento acustico,/images/knauf_prodotti/HERADESIGNFineAlpha35mm.webp
+HERADESIGN® Fine Plus 40mm,Knauf,"Piastrella in lana di legno finemente strutturata da 15 mm con strato acustico da 25 mm, buon assorbimento acustico",/images/knauf_prodotti/HERADESIGNFinePlus40mm.webp
+HERADESIGN® Fine Plus 50mm,Knauf,Piastrella in lana di legno finemente strutturata da 25 mm con strato acustico da 25 mm e elevato assorbimento acustico,/images/knauf_prodotti/HERADESIGNFinePlus50mm.webp
+HERADESIGN® Fine Plus 65mm,Knauf,Piastrella in lana di legno finemente strutturata da 25 mm con strato acustico da 40 mm e elevato assorbimento acustico,/images/knauf_prodotti/HERADESIGNFinePlus65mm.webp
+HERADESIGN® Macro 25mm,Knauf,Piastrella acustica in lana di legno finemente strutturata con buone prestazioni acustiche,/images/knauf_prodotti/HERADESIGNMacro25mm.webp
+HERADESIGN® Macro Plus 50mm,Knauf,Piastrella in lana di legno strutturata con strato acustico da 25 mm e buon assorbimento acustico,/images/knauf_prodotti/HERADESIGNMacroPlus50mm.webp
+HERADESIGN® Macro Plus 65mm,Knauf,Piastrella in lana di legno strutturata con strato acustico da 40 mm e buon assorbimento acustico,/images/knauf_prodotti/HERADESIGNMacroPlus65mm.webp
+HERADESIGN® Micro 25mm,Knauf,Piastrella in lana di legno a pori fini da 25 mm con eccellente resistenza agli urti,/images/knauf_prodotti/HERADESIGNMicro25mm.webp
+HERADESIGN® Micro 35mm,Knauf,Piastrella in lana di legno a pori fini da 35 mm con eccellente resistenza agli urti,/images/knauf_prodotti/HERADESIGNMicro35mm.webp
+HERADESIGN® Micro Plus 50mm,Knauf,Piastrella in lana di legno a pori fini con strato acustico da 25 mm,/images/knauf_prodotti/HERADESIGNMicroPlus50mm.webp
+HERADESIGN® Micro Plus 65mm,Knauf,Piastrella in lana di legno a pori fini con strato acustico da 40 mm,/images/knauf_prodotti/HERADESIGNMicroPlus65mm.webp
+HERADESIGN® Plano 25mm,Knauf,Piastrella in lana di legno liscia da 25 mm con eccellente resistenza agli urti,/images/knauf_prodotti/HERADESIGNPlano25mm.webp
+HERADESIGN® Superfine 15mm,Knauf,Piastrella acustica per soffitto in lana di legno con struttura superleggera e buon assorbimento acustico,/images/knauf_prodotti/HERADESIGNSuperfine15mm.webp
+HERADESIGN® Superfine 25mm,Knauf,Piastrella acustica in lana di legno con struttura superleggera da 25 mm e assorbimento acustico fino alla Classe A,/images/knauf_prodotti/HERADESIGNSuperfine25mm.webp
+HERADESIGN® Superfine 35mm,Knauf,Piastrella acustica in lana di legno con struttura superleggera da 35 mm e assorbimento acustico fino alla Classe A,/images/knauf_prodotti/HERADESIGNSuperfine35mm.webp
+HERADESIGN® Superfine A2 15mm,Knauf,"Piastrella in lana di legno con struttura superleggera, eccellente resistenza al fuoco e buone prestazioni acustiche",/images/knauf_prodotti/HERADESIGNSuperfineA215mm.webp
+HERADESIGN® Superfine A2 25mm,Knauf,"Piastrella in lana di legno con struttura superleggera, eccellente resistenza al fuoco e buone prestazioni acustiche",/images/knauf_prodotti/HERADESIGNSuperfineA225mm.webp
+HERADESIGN®️ Superfine A2 Alpha+ 15mm,Knauf,"Piastrella acustica in lana di legno con struttura super fine, eccellente resistenza al fuoco e ottime proprietà acustiche",/images/knauf_prodotti/HERADESIGNSuperfineA2Alpha15mm.webp
+HERADESIGN®️ Superfine A2 Alpha+ 25mm,Knauf,"Piastrella acustica in lana di legno con struttura super fine, eccellente resistenza al fuoco e straordinarie proprietà acustiche",/images/knauf_prodotti/HERADESIGNSuperfineA2Alpha25mm.webp
+HERADESIGN®️ Superfine Alpha+ 35mm,Knauf,Piastrella acustica in lana di legno con struttura super fine di 35 mm ed eccellente assorbimento acustico,/images/knauf_prodotti/HERADESIGNSuperfineAlpha35mm.webp
+HERADESIGN® Superfine Plus 40mm,Knauf,"Piastrella in lana di legno con struttura super fine di 15 mm e strato acustico di 25 mm, Classe A",/images/knauf_prodotti/HERADESIGNSuperfinePlus40mm.webp
+HERADESIGN® Superfine Plus 50mm,Knauf,"Piastrella in lana di legno con struttura super fine di 25 mm e strato acustico di 25 mm, Classe A",/images/knauf_prodotti/HERADESIGNSuperfinePlus50mm.webp
+HERADESIGN® Superfine Plus 65mm,Knauf,"Piastrella in lana di legno con struttura super fine di 25 mm e strato acustico di 40 mm, Classe A",/images/knauf_prodotti/HERADESIGNSuperfinePlus65mm.webp
+HYGENA Acoustic 15mm,Knauf,"Piastrella per soffitto minerale antimicrobica, liscia, laminata e lavabile con buon assorbimento acustico",/images/knauf_prodotti/HYGENAAcoustic15mm.webp
+HYGENA Alpha,Knauf,"Piastrella per soffitto laminata, liscia e antimicrobica, con eccellente assorbimento acustico di Classe A",/images/knauf_prodotti/HYGENAAlpha.webp
+HYGENA Aquatec 19mm,Knauf,"Piastrella per soffitto minerale, liscia, laminata e antimicrobica, ideale per aree ad alta umidità",/images/knauf_prodotti/HYGENAAquatec19mm.webp
+HYGENA Plain,Knauf,Piastrella per soffitto minerale lavabile e igienica con buona attenuazione acustica,/images/knauf_prodotti/HYGENAPlain.webp
+Light-Box,Knauf,Accessori copriplafoniera per controsoffitti modulari in fibra minerale,/images/knauf_prodotti/Light-Box.webp
+MEDIGUARD Plain,Knauf,Piastrella per soffitto minerale liscia e antimicrobica con buona attenuazione acustica,/images/knauf_prodotti/MEDIGUARDPlain.webp
+MESH Board KD100,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHBoardKD100.webp
+MESH Board RB25,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHBoardRB25.webp
+MESH Board RB35,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHBoardRB35.webp
+MESH Board RB55,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHBoardRB55.webp
+MESH MicroLook 8 KD100,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHMicroLook8KD100.webp
+MESH MicroLook 8 RB25,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHMicroLook8RB25.webp
+MESH Tegular 8 KD100,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHTegular8KD100.webp
+MESH Tegular 8 RB25,Knauf,Soluzione MESH per un'estetica di design industriale,/images/knauf_prodotti/MESHTegular8RB25.webp
+METAL Axal Vector - Unperforated,Knauf,Piastrella acustica METAL Axal Vector con aspetto semincassato e facile accessibilità,/images/knauf_prodotti/METALAxalVector-Unperforated.webp
+METAL Axal Vector with acoustic fleece - Perforated Rg 0704,Knauf,Piastrella acustica METAL Axal Vector con aspetto semincassato e facile accessibilità,/images/knauf_prodotti/METALAxalVectorwithacousticfleece-PerforatedRg0704.webp
+METAL Axal Vector with acoustic fleece - Perforated Rd 1522,Knauf,Piastrella acustica METAL Axal Vector con aspetto semincassato e facile accessibilità,/images/knauf_prodotti/METALAxalVectorwithacousticfleece-PerforatedRd1522.webp
+METAL Axal Vector with acoustic fleece - Perforated Rg 0701,Knauf,Piastrella acustica METAL Axal Vector con aspetto semincassato e facile accessibilità,/images/knauf_prodotti/METALAxalVectorwithacousticfleece-PerforatedRg0701.webp
+METAL Axal Vector with Premium B17 - Perforated Rd 1522,Knauf,Piastrella acustica METAL Axal Vector con aspetto semincassato e facile accessibilità,/images/knauf_prodotti/METALAxalVectorwithPremiumB17-PerforatedRd1522.webp
+METAL Axal Vector with Premium OP15 - Perforated Rd 1522,Knauf,Piastrella acustica METAL Axal Vector con aspetto semincassato e facile accessibilità,/images/knauf_prodotti/METALAxalVectorwithPremiumOP15-PerforatedRd1522.webp
+METAL Board - Unperforated,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoard-Unperforated.webp
+METAL Board BIOGUARD® - Unperforated,Knauf,Pannello METAL Board Lay-In con finitura antimicrobica BIOGUARD,/images/knauf_prodotti/METALBoardBIOGUARD-Unperforated.webp
+METAL Board with acoustic fleece - Perforated Rd 1522,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithacousticfleece-PerforatedRd1522.webp
+METAL Board with acoustic fleece - Perforated Rg 0704,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithacousticfleece-PerforatedRg0704.webp
+METAL Board with acoustic fleece - Perforated Rg 0701,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithacousticfleece-PerforatedRg0701.webp
+METAL Board with acoustic fleece - Perforated Rg 2516,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithacousticfleece-PerforatedRg2516.webp
+METAL Board with Premium B17 - Perforated Rd 1522,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithPremiumB17-PerforatedRd1522.webp
+METAL Board with Premium B17 - Perforated Rg 0704,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithPremiumB17-PerforatedRg0704.webp
+METAL Board with Premium OP15 - Perforated Rd 1522,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithPremiumOP15-PerforatedRd1522.webp
+METAL Board with Premium OP15 - Perforated Rg 0704,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithPremiumOP15-PerforatedRg0704.webp
+METAL Board without acoustic infill - Perforated Rg 2516,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithoutacousticinfill-PerforatedRg2516.webp
+METAL Board without acoustic infill - Perforated Rd 1522,Knauf,Piastrella METAL Board Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALBoardwithoutacousticinfill-PerforatedRd1522.webp
+METAL Grille Cellio C16,Knauf,"Pannello con celle aperte, piastrella METAL Lay-In durevole",/images/knauf_prodotti/METALGrilleCellioC16.webp
+METAL Grille Cellio C25,Knauf,"Pannello con celle aperte, piastrella METAL Lay-In durevole",/images/knauf_prodotti/METALGrilleCellioC25.webp
+METAL Grille Cellio C36,Knauf,"Pannello con celle aperte, piastrella METAL Lay-In durevole",/images/knauf_prodotti/METALGrilleCellioC36.webp
+METAL Grille Cellio C49,Knauf,"Pannello con celle aperte, piastrella METAL Lay-In durevole",/images/knauf_prodotti/METALGrilleCellioC49.webp
+METAL Grille Cellio C64,Knauf,"Pannello con celle aperte, piastrella METAL Lay-In durevole",/images/knauf_prodotti/METALGrilleCellioC64.webp
+METAL Grille Cellio C9,Knauf,"Pannello con celle aperte, piastrella METAL Lay-In durevole",/images/knauf_prodotti/METALGrilleCellioC9.webp
+METAL MicroLook 8 - Unperforated,Knauf,Piastrella METAL MicroLook Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALMicroLook8-Unperforated.webp
+METAL MicroLook 8 with acoustic fleece - Perforated Rg 0704,Knauf,Piastrella METAL MicroLook Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALMicroLook8withacousticfleece-PerforatedRg0704.webp
+METAL MicroLook 8 with acoustic fleece - Perforated Rg 2516,Knauf,Piastrella METAL MicroLook Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALMicroLook8withacousticfleece-PerforatedRg2516.webp
+METAL MicroLook 8 with acoustic fleece - Perforated Rd 1522,Knauf,Piastrella METAL MicroLook Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALMicroLook8withacousticfleece-PerforatedRd1522.webp
+METAL MicroLook 8 without acoustic infill - Perforated Rg 2516,Knauf,Piastrella METAL MicroLook Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALMicroLook8withoutacousticinfill-PerforatedRg2516.webp
+METAL MicroLook 8 without acoustic infill - Perforated Rd 1522,Knauf,Piastrella METAL MicroLook Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALMicroLook8withoutacousticinfill-PerforatedRd1522.webp
+METAL Q-Clip - Unperforated,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clip-Unperforated.webp
+METAL Q-Clip F - Unperforated,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipF-Unperforated.webp
+METAL Q-Clip F BIOGUARD® - Unperforated,Knauf,Pannello METAL Clip-In PLAIN con finitura antimicrobica BIOGUARD,/images/knauf_prodotti/METALQ-ClipFBIOGUARD-Unperforated.webp
+METAL Q-Clip F with acoustic fleece - Perforated Rg 0704,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithacousticfleece-PerforatedRg0704.webp
+METAL Q-Clip F with acoustic fleece - Perforated Rg 2516,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithacousticfleece-PerforatedRg2516.webp
+METAL Q-Clip F with acoustic fleece - Perforated Rg 0701,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithacousticfleece-PerforatedRg0701.webp
+METAL Q-Clip F with acoustic fleece - Perforated Rd 1522,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithacousticfleece-PerforatedRd1522.webp
+METAL Q-Clip F with Premium B17 - Perforated Rg 0704,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithPremiumB17-PerforatedRg0704.webp
+METAL Q-Clip F with Premium OP15 - Perforated Rg 0704,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithPremiumOP15-PerforatedRg0704.webp
+METAL Q-Clip F without acoustic infill - Perforated Rg 2516,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithoutacousticinfill-PerforatedRg2516.webp
+METAL Q-Clip F without acoustic infill - Perforated Rd 1522,Knauf,Pannello METAL Clip-In con sistema nascosto per un effetto monolitico e acustica migliorata,/images/knauf_prodotti/METALQ-ClipFwithoutacousticinfill-PerforatedRd1522.webp
+METAL Q-Clip with acoustic fleece - Perforated Rd 1522,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clipwithacousticfleece-PerforatedRd1522.webp
+METAL Q-Clip with acoustic fleece - Perforated Rg 0704,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clipwithacousticfleece-PerforatedRg0704.webp
+METAL Q-Clip with acoustic fleece - Perforated Rg 2516,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clipwithacousticfleece-PerforatedRg2516.webp
+METAL Q-Clip with acoustic fleece - Perforated Rg 0701,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clipwithacousticfleece-PerforatedRg0701.webp
+METAL Q-Clip with Premium B17 - Perforated Rd 1522,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-ClipwithPremiumB17-PerforatedRd1522.webp
+METAL Q-Clip with Premium B17 - Perforated Rg 0704,Knauf,Pannello METAL Clip-In con design nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-ClipwithPremiumB17-PerforatedRg0704.webp
+METAL Q-Clip with Premium OP15 - Perforated Rd 1522,Knauf,Pannello METAL Clip-In con design nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-ClipwithPremiumOP15-PerforatedRd1522.webp
+METAL Q-Clip with Premium OP15 - Perforated Rg 0704,Knauf,Pannello METAL Clip-In con design nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-ClipwithPremiumOP15-PerforatedRg0704.webp
+METAL Q-Clip without acoustic infill - Perforated Rg 2516,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clipwithoutacousticinfill-PerforatedRg2516.webp
+METAL Q-Clip without acoustic infill - Perforated Rd 1522,Knauf,Pannello METAL Clip-In con design elegante e nascosto per acustica migliorata,/images/knauf_prodotti/METALQ-Clipwithoutacousticinfill-PerforatedRd1522.webp
+METAL Tegular 2 - Unperforated,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2-Unperforated.webp
+METAL Tegular 2 with acoustic fleece - Perforated Rg 0704,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withacousticfleece-PerforatedRg0704.webp
+METAL Tegular 2 with acoustic fleece - Perforated Rg 2516,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withacousticfleece-PerforatedRg2516.webp
+METAL Tegular 2 with acoustic fleece - Perforated Rg 0701,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withacousticfleece-PerforatedRg0701.webp
+METAL Tegular 2 with acoustic fleece - Perforated Rd 1522,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withacousticfleece-PerforatedRd1522.webp
+METAL Tegular 2 with Premium B17 - Perforated Rg 0704,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withPremiumB17-PerforatedRg0704.webp
+METAL Tegular 2 with Premium OP15 - Perforated Rg 0704,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withPremiumOP15-PerforatedRg0704.webp
+METAL Tegular 2 without acoustic infill - Perforated Rg 2516,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withoutacousticinfill-PerforatedRg2516.webp
+METAL Tegular 2 without acoustic infill - Perforated Rd 1522,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular2withoutacousticinfill-PerforatedRd1522.webp
+METAL Tegular 8 - Unperforated,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8-Unperforated.webp
+METAL Tegular 8 with acoustic fleece - Perforated Rg 0704,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withacousticfleece-PerforatedRg0704.webp
+METAL Tegular 8 with acoustic fleece - Perforated Rg 2516,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withacousticfleece-PerforatedRg2516.webp
+METAL Tegular 8 with acoustic fleece - Perforated Rg 0701,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withacousticfleece-PerforatedRg0701.webp
+METAL Tegular 8 with acoustic fleece - Perforated Rd 1522,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withacousticfleece-PerforatedRd1522.webp
+METAL Tegular 8 with Premium B17 - Perforated Rg 0704,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withPremiumB17-PerforatedRg0704.webp
+METAL Tegular 8 with Premium OP15 - Perforated Rg 0704,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withPremiumOP15-PerforatedRg0704.webp
+METAL Tegular 8 without acoustic infill - Perforated Rg 2516,Knauf,Piastrella METAL Tegular Lay-In facile da installare che garantisce pieno accesso al controsoffitto,/images/knauf_prodotti/METALTegular8withoutacousticinfill-PerforatedRg2516.webp
+NEWTONE,Knauf,Soluzioni per soffitti al 100% resistenti all'umidità per ambienti ad alta umidità,/images/knauf_prodotti/NEWTONE.webp
+PLAIN 15mm,Knauf,Piastrella per soffitto minerale liscia con alta riflettanza della luce e buona attenuazione acustica,/images/knauf_prodotti/PLAIN15mm.webp
+STAR 15mm,Knauf,Piastrella per soffitto minerale microforata con buon assorbimento e attenuazione acustica,/images/knauf_prodotti/STAR15mm.webp
+Thermatex Feinfresko 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexFeinfresko15.webp
+Thermatex Feinstratos Hygena 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexFeinstratosHygena15.webp
+Thermatex Feinstratos Micro 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexFeinstratosMicro15.webp
+Thermatex Feinstratos Micro 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexFeinstratosMicro19.webp
+THERMATEX HYGENA Alpha 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXHYGENAAlpha19.webp
+THERMATEX HYGENA Plain 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXHYGENAPlain15.webp
+Thermatex Mercure 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexMercure15.webp
+THERMATEX PLAIN 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXPLAIN15.webp
+Thermatex Star 15 mm,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexStar15mm.webp
+Thermatex Thermofon 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/ThermatexThermofon15.webp
+THERMATEX® Acoustic 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAcoustic19.webp
+THERMATEX® Acoustic 24,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAcoustic24.webp
+THERMATEX® Alpha 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAlpha19.webp
+THERMATEX® Alpha Colour Black 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAlphaColourBlack19.webp
+THERMATEX® Alpha Colour Cream 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAlphaColourCream19.webp
+THERMATEX® Alpha Colour Silver 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAlphaColourSilver19.webp
+THERMATEX® Aquatec 19,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXAquatec19.webp
+THERMATEX® dB Acoustic 24,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXdBAcoustic24.webp
+THERMATEX® Feinstratos 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXFeinstratos15.webp
+THERMATEX® Fresko 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXFresko15.webp
+THERMATEX® Thermaclean 15,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/THERMATEXThermaclean15.webp
+TOPIQ Prime,Knauf,Pannello in lana di roccia per controsoffitti modulari,/images/knauf_prodotti/TOPIQPrime.webp
+TOPIQ® Efficient Pro 20,Knauf,Pannello in fibra minerale per controsoffitti modulari,/images/knauf_prodotti/TOPIQEfficientPro20.webp
+VARIOLINE Metal (Alpha),Knauf,Piastrella per soffitto minerale effetto metallo con eccellente assorbimento acustico,/images/knauf_prodotti/VARIOLINEMetalAlpha.webp
+VARIOLINE Motif (HD),Knauf,Piastrella per soffitto minerale stampata con eccellente assorbimento acustico e buona attenuazione acustica,/images/knauf_prodotti/VARIOLINEMotifHD.webp
+VARIOLINE Symetra (Alpha),Knauf,Piastrella per soffitto minerale effetto metallo con eccellente assorbimento acustico,/images/knauf_prodotti/VARIOLINESymetraAlpha.webp
+Addi S 1.2,Knauf,Rivestimento acrilico per sistema cappotto termico,/images/knauf_prodotti/AddiS12.webp
+Addi S 1.5,Knauf,Rivestimento acrilico per sistema cappotto termico,/images/knauf_prodotti/AddiS15.webp
+Aquapanel Exterior Reinforcing Tape,Knauf,Nasto in rete per armatura dei giunti tra le lastre Aquapanel,/images/knauf_prodotti/AquapanelExteriorReinforcingTape.webp
+Aquapanel Joint Tape,Knauf,Nasto in rete per armatura dei giunti tra le lastre Aquapanel,/images/knauf_prodotti/AquapanelJointTape.webp
+Calce idrata,Knauf,Polvere di idrato di calce bianca da diluire con acqua,/images/knauf_prodotti/Calceidrata.webp
+Calce idraulica,Knauf,"Legante pronto all’uso per intonaci, interni ed esterni",/images/knauf_prodotti/Calceidraulica.webp
+Cemento bianco,Knauf,Cemento bianco Portland per esterni,/images/knauf_prodotti/Cementobianco.webp
+Cemento grigio,Knauf,Cemento grigio in grado di offrire un’elevata resistenza alla compressione,/images/knauf_prodotti/Cementogrigio.webp
+Cemento rapido,Knauf,Malta cementizia a presa rapida,/images/knauf_prodotti/Cementorapido.webp
+Conni S e Conni Elastik 1.2,Knauf,Rivestimento idrosiliconico per sistema cappotto termico,/images/knauf_prodotti/ConniSeConniElastik12.webp
+Conni S e Conni Elastik 1.5,Knauf,Rivestimento idrosiliconico per sistema cappotto termico,/images/knauf_prodotti/ConniSeConniElastik15.webp
+"Easy Putz 0,5",Knauf,Intonaco minerale puro per ambienti interni,/images/knauf_prodotti/EasyPutz05.webp
+"Easy Putz 1,0",Knauf,Intonaco minerale puro per ambienti interni,/images/knauf_prodotti/EasyPutz10.webp
+FP 120,Knauf,Intonaco protettivo antincendio a base gesso per interni,/images/knauf_prodotti/FP120.webp
+Gesso e scagliola,Knauf,"Prodotto a base di gesso per finiture, rasature e lavorazioni in interno",/images/knauf_prodotti/Gessoescagliola.webp
+Malta bastarda,Knauf,"Malta idraulica in polvere pronta all'uso, per interno ed esterno",/images/knauf_prodotti/Maltabastarda.webp
+Malta da risanamento deumidificante,Knauf,Malta da intonaco per umidità di risalita,/images/knauf_prodotti/Maltadarisanamentodeumidificante.webp
+Malta da risanamento deumidificante - finitura,Knauf,Malta rasante per la finitura di facciate degradate dall'umidità,/images/knauf_prodotti/Maltadarisanamentodeumidificante-finitura.webp
+Malta pronta bianca fine e malta bagnata,Knauf,Malta in polvere per la rasatura di intonaci tradizionali,/images/knauf_prodotti/Maltaprontabiancafineemaltabagnata.webp
+Malta pronta grigia,Knauf,Malta per intonaci,/images/knauf_prodotti/Maltaprontagrigia.webp
+Malta refrattaria,Knauf,Malta refrattaria in polvere ad uso interno ed esterno,/images/knauf_prodotti/Maltarefrattaria.webp
+MP3,Knauf,Intonaco di fondo premiscelato a base gesso/calce/perlite,/images/knauf_prodotti/MP3.webp
+Pastol Dry,Knauf,Collante rasante premiscelato per incollaggio di pannelli isolanti su supporto in legno,/images/knauf_prodotti/PastolDry.webp
+Perlfix,Knauf,Adesivo a base di gesso per fissaggio di lastre e isolastre,/images/knauf_prodotti/Perlfix.webp
+Rasante bianco,Knauf,"Rasante per intonaco e calcestruzzo, ad uso interno ed esterno.",/images/knauf_prodotti/Rasantebianco.webp
+Rasante bio,Knauf,Rasante di finitura per interni ed esterni,/images/knauf_prodotti/Rasantebio.webp
+Rasante grigio,Knauf,"Rasante per intonaco e calcestruzzo, ad uso interno ed esterno.",/images/knauf_prodotti/Rasantegrigio.webp
+Reinforcing Mesh 160 g/m2,Knauf,Rete di armatura per sistema cappotto termico,/images/knauf_prodotti/ReinforcingMesh160gm2.webp
+Reinforcing Mesh 200 g/m2,Knauf,Rete di armatura per il Sistema Aquapanel,/images/knauf_prodotti/ReinforcingMesh200gm2.webp
+Rete a freccia 3D,Knauf,Accessori per la rasatura del sistema cappotto termico,/images/knauf_prodotti/Reteafreccia3D.webp
+Rete preformata per bugnature,Knauf,Accessori per la rasatura del sistema cappotto termico,/images/knauf_prodotti/Retepreformataperbugnature.webp
+SM 300,Knauf,Rasante collante per sistema cappotto termico,/images/knauf_prodotti/SM300.webp
+SM 500,Knauf,Rasante collante per sistema cappotto termico,/images/knauf_prodotti/SM500.webp
+SM 700 PRO,Knauf,Rasante collante per sistema cappotto termico,/images/knauf_prodotti/SM700PRO.webp
+SM 780,Knauf,Rasante collante per sistema cappotto termico,/images/knauf_prodotti/SM780.webp
+AQUAPANEL® Joint Filler & Skim Coating white,Knauf,Stucco per giunti e rasante a base cementizia per lastre Aquapanel per uso interno,/images/knauf_prodotti/AQUAPANELJointFillerSkimCoatingwhite.webp
+AQUAPANEL® Q4 Finish,Knauf,Rasante per interni per lastre Aquapanel,/images/knauf_prodotti/AQUAPANELQ4Finish.webp
+F2F - Filler To Finish,Knauf,Stucco pronto in pasta per sigillatura dei giunti e rasatura lastre in cartongesso,/images/knauf_prodotti/F2F-FillerToFinish.webp
+Finitura,Knauf,"Stucco pronto in pasta, per la rasatura di lastre in cartongesso",/images/knauf_prodotti/Finitura.webp
+Fireboard Spachtel,Knauf,Stucco in polvere a base gesso per lastre Fireboard,/images/knauf_prodotti/FireboardSpachtel.webp
+Fugenfüller 120,Knauf,Stucco in polvere a base di gesso per la stuccatura dei giunti,/images/knauf_prodotti/Fugenfüller120.webp
+Fugenfüller 30,Knauf,Stucco in polvere a base di gesso per la stuccatura dei giunti,/images/knauf_prodotti/Fugenfüller30.webp
+Safeboard Spachel,Knauf,Stucco in polvere per lastre Safeboard,/images/knauf_prodotti/SafeboardSpachel.webp
+Stucco da riempimento per esterni,Knauf,Stucco a base di gesso per lavorazioni in esterno,/images/knauf_prodotti/Stuccodariempimentoperesterni.webp
+Stucco da riempimento per interni,Knauf,Stucco a base di gesso per lavorazioni in interno,/images/knauf_prodotti/Stuccodariempimentoperinterni.webp
+Stucco in pasta per muro/legno e stucco fine per superfici,Knauf,Stucco in pasta pronto all'uso,/images/knauf_prodotti/Stuccoinpastapermurolegnoestuccofinepersuperfici.webp
+Stucco in pasta Ultralight,Knauf,Stucco in pasta pronto all'uso,/images/knauf_prodotti/StuccoinpastaUltralight.webp
+Stucco per riparazioni,Knauf,Stucco in pasta pronto per una veloce riparazione di fughe danneggiate e scolorite.,/images/knauf_prodotti/Stuccoperriparazioni.webp
+Tappabuchi rapido,Knauf,Stucco in pasta pronto all'uso,/images/knauf_prodotti/Tappabuchirapido.webp
+Uniflott Finish,Knauf,Stucco in polvere per la stuccatura dei giunti tra le lastre in cartongesso,/images/knauf_prodotti/UniflottFinish.webp
+Uniflott idro,Knauf,Stucco in polvere per la stuccatura dei giunti tra le lastre in cartongesso,/images/knauf_prodotti/Uniflottidro.webp
+Copribordo in acciaio zincato 23/13,Knauf,Copribordo metallico per finitura di spigoli o velette,/images/knauf_prodotti/Copribordoinacciaiozincato2313.webp
+Coprigiunto in PVC,Knauf,Accessori per la rasatura del sistema cappotto termico,/images/knauf_prodotti/CoprigiuntoinPVC.webp
+Coprigiunto in PVC,Knauf,Giunto di dilatazione in PVC,/images/knauf_prodotti/CoprigiuntoinPVC.webp
+Flex Runner,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili autoportanti,/images/knauf_prodotti/FlexRunner.webp
+Giunti di frazionamento KG,Knauf,Coprigiunto per giunti di dilatazione su sistemi a secco per interni,/images/knauf_prodotti/GiuntidifrazionamentoKG.webp
+Gocciolatoio in PVC,Knauf,Accessori per la rasatura del sistema cappotto termico,/images/knauf_prodotti/GocciolatoioinPVC.webp
+Gocciolatoio in PVC per profilo di partenza,Knauf,Accessori per la rasatura del sistema cappotto termico,/images/knauf_prodotti/GocciolatoioinPVCperprofilodipartenza.webp
+Knaufixy GA e GK 30,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/KnaufixyGAeGK30.webp
+Knaufixy GA e GK 50,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/KnaufixyGAeGK50.webp
+Knaufixy GK 75,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/KnaufixyGK75.webp
+Knaufixy L e L2D,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/KnaufixyLeL2D.webp
+Knaufixy T-Plan,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/KnaufixyT-Plan.webp
+MT270 Guarnizione in gomma per sanitari MT,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT270GuarnizioneingommapersanitariMT.webp
+MT280 Mensola di supporto top marmo,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT280Mensoladisupportotopmarmo.webp
+MT330 Supporto universale per sanitari,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT330Supportouniversalepersanitari.webp
+MT340 Supporto universale per sanitari,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT340Supportouniversalepersanitari.webp
+Paraspigoli curvi e per angoli variabili,Knauf,Accessori paraspigolo per la finitura degli angoli,/images/knauf_prodotti/Paraspigolicurvieperangolivariabili.webp
+Paraspigolo in PVC,Knauf,Accessori per la rasatura del sistema cappotto termico,/images/knauf_prodotti/ParaspigoloinPVC.webp
+Profili Omega,Knauf,Profilo metallico a forma di omega,/images/knauf_prodotti/ProfiliOmega.webp
+Profilo angolare L 30/30,Knauf,Orditura metallica a forma di L,/images/knauf_prodotti/ProfiloangolareL3030.webp
+Profilo angolare L 40/40,Knauf,Orditura metallica a forma di L,/images/knauf_prodotti/ProfiloangolareL4040.webp
+Profilo angolare L 50/50,Knauf,Orditura metallica a forma di L,/images/knauf_prodotti/ProfiloangolareL5050.webp
+Profilo asolato U 40/100/40 sp. 2 mm,Knauf,Orditura metallica per la realizzazione di vani porta,/images/knauf_prodotti/ProfiloasolatoU4010040sp2mm.webp
+Profilo asolato U 40/125/40 sp. 2 mm,Knauf,Orditura metallica per la realizzazione di vani porta,/images/knauf_prodotti/ProfiloasolatoU4012540sp2mm.webp
+Profilo asolato U 40/150/40 sp. 2 mm,Knauf,Orditura metallica per la realizzazione di vani porta,/images/knauf_prodotti/ProfiloasolatoU4015040sp2mm.webp
+Profilo asolato U 40/50/40 sp. 2 mm,Knauf,Orditura metallica per la realizzazione di vani porta,/images/knauf_prodotti/ProfiloasolatoU405040sp2mm.webp
+Profilo asolato U 40/75/40 sp. 2 m,Knauf,Orditura metallica per la realizzazione di vani porta,/images/knauf_prodotti/ProfiloasolatoU407540sp2m.webp
+Profilo C Plus 15/50/15,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti,/images/knauf_prodotti/ProfiloCPlus155015.webp
+Profilo C plus 25/60/25 Gratex,Knauf,Orditura metallica per la realizzazione di controsoffitti antisfondellamento,/images/knauf_prodotti/ProfiloCplus256025Gratex.webp
+Profilo C Plus 25/60/25 MgZ,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti per esterni,/images/knauf_prodotti/ProfiloCPlus256025MgZ.webp
+Profilo C Plus 27/50/27 MgZ,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti per esterni,/images/knauf_prodotti/ProfiloCPlus275027MgZ.webp
+Profilo C Plus 27/60/27,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti,/images/knauf_prodotti/ProfiloCPlus276027.webp
+Profilo C Plus 27/60/27 MgZ,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti per esterni,/images/knauf_prodotti/ProfiloCPlus276027MgZ.webp
+"Profilo C Plus 27/60/27 sp. 0,8 mm MgZ",Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti per esterni,/images/knauf_prodotti/ProfiloCPlus276027sp08mmMgZ.webp
+Profilo di irriggidimento 11/11,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/Profilodiirriggidimento1111.webp
+Profilo di partenza in alluminio,Knauf,Accessori per sistema cappotto termico,/images/knauf_prodotti/Profilodipartenzainalluminio.webp
+"Profilo F12,5 per velette",Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/ProfiloF125pervelette.webp
+Profilo F15 per velette,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/ProfiloF15pervelette.webp
+Profilo guida U 100/100/100 sp. 1 mm MgZ,Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU100100100sp1mmMgZ.webp
+Profilo guida U 100/150/100 sp. 1 mm MgZ,Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU100150100sp1mmMgZ.webp
+Profilo guida U 100/75/100 sp. 1 mm MgZ,Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU10075100sp1mmMgZ.webp
+Profilo guida U 25/25/25 Gratex,Knauf,Orditura metallica per la realizzazione di controsoffitti antisfondellamento,/images/knauf_prodotti/ProfiloguidaU252525Gratex.webp
+Profilo guida U 25/25/25 MgZ,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti per esterni,/images/knauf_prodotti/ProfiloguidaU252525MgZ.webp
+Profilo guida U 30/15/30,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti,/images/knauf_prodotti/ProfiloguidaU301530.webp
+Profilo guida U 30/27/30,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti,/images/knauf_prodotti/ProfiloguidaU302730.webp
+Profilo guida U 30/27/30 MgZ,Knauf,Orditura metallica per la realizzazione di controsoffitti e contropareti per esterni,/images/knauf_prodotti/ProfiloguidaU302730MgZ.webp
+"Profilo guida U 40/100/40 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU4010040sp06mm.webp
+"Profilo guida U 40/100/40 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU4010040sp06mmMgZ.webp
+"Profilo guida U 40/100/40 sp. 0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU4010040sp08mm.webp
+"Profilo guida U 40/100/40 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU4010040sp08mmMgZ.webp
+"Profilo guida U 40/150/40 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU4015040sp06mm.webp
+"Profilo guida U 40/150/40 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU4015040sp06mmMgZ.webp
+"Profilo guida U 40/150/40 sp. 0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU4015040sp08mm.webp
+"Profilo guida U 40/150/40 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU4015040sp08mmMgZ.webp
+"Profilo guida U 40/50/40 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU405040sp06mm.webp
+"Profilo guida U 40/50/40 sp.0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU405040sp06mmMgZ.webp
+"Profilo guida U 40/50/40 sp.0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU405040sp08mm.webp
+"Profilo guida U 40/50/40 sp.0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU405040sp08mmMgZ.webp
+"Profilo guida U 40/55/40 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU405540sp06mm.webp
+"Profilo guida U 40/75/40 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU407540sp06mm.webp
+"Profilo guida U 40/75/40 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU407540sp06mmMgZ.webp
+"Profilo guida U 40/75/40 sp. 0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfiloguidaU407540sp08mm.webp
+"Profilo guida U 40/75/40 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfiloguidaU407540sp08mmMgZ.webp
+Profilo in PVC per angoli variabili,Knauf,Accessori per rasatura per sistema cappotto termico,/images/knauf_prodotti/ProfiloinPVCperangolivariabili.webp
+Profilo in PVC per spallette,Knauf,Accessori per realizzazione vani finestra in sistema cappotto termico,/images/knauf_prodotti/ProfiloinPVCperspallette.webp
+"Profilo montante C 50/100/50 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC5010050sp06mm.webp
+"Profilo montante C 50/100/50 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC5010050sp06mmMgZ.webp
+"Profilo montante C 50/100/50 sp. 0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC5010050sp08mm.webp
+"Profilo montante C 50/100/50 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC5010050sp08mmMgZ.webp
+"Profilo montante C 50/100/50 sp. 1,0 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC5010050sp10mmMgZ.webp
+"Profilo montante C 50/150/50 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC5015050sp06mm.webp
+"Profilo montante C 50/150/50 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC5015050sp06mmMgZ.webp
+"Profilo montante C 50/150/50 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC5015050sp08mmMgZ.webp
+Profilo montante C 50/150/50 sp. 1 mm MgZ,Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC5015050sp1mmMgZ.webp
+"Profilo montante C 50/50/50 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC505050sp06mm.webp
+"Profilo montante C 50/50/50 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC505050sp06mmMgZ.webp
+"Profilo montante C 50/50/50 sp. 0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC505050sp08mm.webp
+"Profilo montante C 50/50/50 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC505050sp08mmMgZ.webp
+"Profilo montante C 50/55/50 sp. 0,6 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC505550sp06mm.webp
+"Profilo montante C 50/75/50 sp. 0,6 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC507550sp06mmMgZ.webp
+"Profilo montante C 50/75/50 sp. 0,8 mm",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti",/images/knauf_prodotti/ProfilomontanteC507550sp08mm.webp
+"Profilo montante C 50/75/50 sp. 0,8 mm MgZ",Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC507550sp08mmMgZ.webp
+Profilo montante C 50/75/50 sp. 1 mm MgZ,Knauf,"Orditura metallica per la realizzazione di pareti, contropareti e controsoffitti autoportanti per esterni",/images/knauf_prodotti/ProfilomontanteC507550sp1mmMgZ.webp
+Profilo paraspigolo curvo 31/30,Knauf,Paraspigolo metallico per la finitura e la protezione di spigoli curvi di cartongesso,/images/knauf_prodotti/Profiloparaspigolocurvo3130.webp
+Profilo paraspigolo L 27/27,Knauf,Paraspigolo metallico per la finitura e la protezione di spigoli di cartongesso,/images/knauf_prodotti/ProfiloparaspigoloL2727.webp
+Profilo paraspigolo L 31/31,Knauf,Paraspigolo metallico per la finitura e la protezione di spigoli di cartongesso,/images/knauf_prodotti/ProfiloparaspigoloL3131.webp
+Profilo per angoli variabili 100,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/Profiloperangolivariabili100.webp
+Profilo per angoli variabili 200,Knauf,Orditura metallica per sistemi curvi,/images/knauf_prodotti/Profiloperangolivariabili200.webp
+Profilo per finestra,Knauf,Accessori per sistema cappotto termico,/images/knauf_prodotti/Profiloperfinestra.webp
+"Profilo per scuretto per lastra da 12,5 mm",Knauf,Profilo per realizzazione di scuretti su controsoffitti e velette,/images/knauf_prodotti/Profiloperscurettoperlastrada125mm.webp
+Profilo per scuretto per lastra da 15 mm,Knauf,Profilo per realizzazione di scuretti su controsoffitti e velette,/images/knauf_prodotti/Profiloperscurettoperlastrada15mm.webp
+Profilo rigido per angoli variabili,Knauf,Accessori per sistemi curvi,/images/knauf_prodotti/Profilorigidoperangolivariabili.webp
+Profilo sotto davanzale in alluminio,Knauf,Accessori per sistema cappotto termico,/images/knauf_prodotti/Profilosottodavanzaleinalluminio.webp
+Profilo U a scatto 40/28/40,Knauf,Orditura metallica per la realizzazione di controsoffitti,/images/knauf_prodotti/ProfiloUascatto402840.webp
+Profilo U a scatto 40/28/40 MgZ,Knauf,Orditura metallica per la realizzazione di controsoffitti per esterni,/images/knauf_prodotti/ProfiloUascatto402840MgZ.webp
+Serie KS Compact Profilo trasversale T 24/32,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKSCompactProfilotrasversaleT2432.webp
+"Serie KS38 Portante Estetica T 14,5/41,5",Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38PortanteEsteticaT145415.webp
+Serie KS38 Profilo C 25x42x18,Knauf,Profilo per controsoffitti modulari,/images/knauf_prodotti/SerieKS38ProfiloC25x42x18.webp
+Serie KS38 Profilo distanziatore,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38Profilodistanziatore.webp
+Serie KS38 Profilo perimetrale doppia L 25/8/15/15,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38ProfiloperimetraledoppiaL2581515.webp
+Serie KS38 Profilo perimetrale L 20/25,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38ProfiloperimetraleL2025.webp
+Serie KS38 Profilo perimetrale L 30/30,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38ProfiloperimetraleL3030.webp
+Serie KS38 Profilo portante T 15/38,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38ProfiloportanteT1538.webp
+Serie KS38 Profilo trasversale T 15/38,Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38ProfilotrasversaleT1538.webp
+"Serie KS38 Trasversale Estetica T 14,5/41,5",Knauf,Orditura metallica per la realizzazione di controsoffitti modulari ispezionabili,/images/knauf_prodotti/SerieKS38TrasversaleEsteticaT145415.webp
+Stalfire Profilo per travi e pilastri in acciaio,Knauf,Orditura metallica con aggancio su putrella,/images/knauf_prodotti/StalfireProfilopertraviepilastriinacciaio.webp
+Supporto cardini K1-PE,Knauf,Accessori per carichi pesanti in sistema cappotto termico,/images/knauf_prodotti/SupportocardiniK1-PE.webp
+Supporto per orinatoio,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/Supportoperorinatoio.webp
+Supporto sanitari bidet,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/Supportosanitaribidet.webp
+Supporto sanitari lavabo,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/Supportosanitarilavabo.webp
+Supporto sanitari WC sospeso,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/SupportosanitariWCsospeso.webp
+Supporto sanitari WC sospeso universale per portatori di handicap,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/SupportosanitariWCsospesouniversaleperportatoridihandicap.webp
+Supporto WC sospeso predisposto per cassetta risciacquo,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/SupportoWCsospesopredispostopercassettarisciacquo.webp
+Autolivellante,Knauf,Autolivellante ad alte prestazioni per il livellamento dei pavimenti.,/images/knauf_prodotti/Autolivellante.webp
+Granulare per sottofondi a secco,Knauf,Inerte granulare per sottofondi a secco Brio,/images/knauf_prodotti/Granularepersottofondiasecco.webp
+Iso-Spirale,Knauf,Accessori per carichi pesanti in sistema cappotto termico,/images/knauf_prodotti/Iso-Spirale.webp
+Knauf Domani,Knauf,Massetto premiscelato per interni ad asciugatura rapida,/images/knauf_prodotti/KnaufDomani.webp
+Microlivellina N 410,Knauf,Livellina a base solfato di calcio per spessori fino a 10 mm,/images/knauf_prodotti/MicrolivellinaN410.webp
+Botola Cliky 2,Knauf,Botola di ispezione per cartongesso Clicky 2,/images/knauf_prodotti/BotolaCliky2.webp
+Botola di ispezione da parete e per setto autoportante,Knauf,Botola per pareti Knauf con classificazione di resistenza al fuoco EI120,/images/knauf_prodotti/Botoladiispezionedapareteepersettoautoportante.webp
+Botola di ispezione da soffitto REI 60 e EI 120,Knauf,Botola per controsoffitti Knauf con classificazione di resistenza al fuoco,/images/knauf_prodotti/BotoladiispezionedasoffittoREI60eEI120.webp
+Botola di ispezione per controsoffitto K219 EI90,Knauf,Botola per controsoffitto autoportante Knauf con classificazione di resistenza al fuoco EI90,/images/knauf_prodotti/BotoladiispezionepercontrosoffittoK219EI90.webp
+Botola di ispezione per setto autoportante EI 90,Knauf,Botola per setto autoportante Knauf con classificazione di resistenza al fuoco EI90,/images/knauf_prodotti/BotoladiispezionepersettoautoportanteEI90.webp
+Botola Open,Knauf,Botola di ispezione per cartongesso Open,/images/knauf_prodotti/BotolaOpen.webp
+Botola Revo,Knauf,Botola di ispezione per cartongesso Revo con lastra Diamant,/images/knauf_prodotti/BotolaRevo.webp
+Botola Revo GZ,Knauf,Botola di ispezione per cartongesso Revo GZ con lastra Diamant e guarnizione,/images/knauf_prodotti/BotolaRevoGZ.webp
+Botole Cliky 2,Knauf,Botola di ispezione per pareti e soffitti in cartongesso.,/images/knauf_prodotti/BotoleCliky2.webp
+MT200 Traversa di supporto soffione doccia regolabile,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT200Traversadisupportosoffionedocciaregolabile.webp
+MT210 Traversa di supporto miscelatore con profilo,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT210Traversadisupportomiscelatoreconprofilo.webp
+MT220 Traversa di supporto attacchi boiler,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT220Traversadisupportoattacchiboiler.webp
+MT240 Traversa di supporto attacchi wc,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT240Traversadisupportoattacchiwc.webp
+MT250 Traversa di supporto cassetta,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT250Traversadisupportocassetta.webp
+MT260 Traversa di supporto attacchi bidet a pavimento,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT260Traversadisupportoattacchibidetapavimento.webp
+MT290 Traversa di sostegno collare di scarico regolabile,Knauf,"Accessori per orditure, per supporti e idrosanitari",/images/knauf_prodotti/MT290Traversadisostegnocollarediscaricoregolabile.webp
+"Telai per porte scorrevoli, accessori e kit di ricambio",Knauf,Telai per porte scorrevoli,/images/knauf_prodotti/Telaiperportescorrevoliaccessoriekitdiricambio.webp
+Aquapanel Basecoat Primer,Knauf,Primer per applicazione su Aquapanel Basecoat,/images/knauf_prodotti/AquapanelBasecoatPrimer.webp
+AQUAPANEL® Board Primer,Knauf,Primer per applicazione su lastre Aquapanel,/images/knauf_prodotti/AQUAPANELBoardPrimer.webp
+"Base P Conni Elastik 1,5 mm",Knauf,Base pastello per rivestimento idrosiliconico,/images/knauf_prodotti/BasePConniElastik15mm.webp
+Base P per primer pigmentato,Knauf,Base pastello per primer pigmentato,/images/knauf_prodotti/BasePperprimerpigmentato.webp
+"Base T Conni Elastik 1,5 mm",Knauf,Base trasparente per rivestimento idrosiliconico,/images/knauf_prodotti/BaseTConniElastik15mm.webp
+Base T Pittura idrosiliconica al quarzo,Knauf,Base trasparente per pittura idrosiliconica al quarzo,/images/knauf_prodotti/BaseTPitturaidrosiliconicaalquarzo.webp
+Betokontakt,Knauf,Aggrappante per interni,/images/knauf_prodotti/Betokontakt.webp
+Grundiermittel,Knauf,Fondo aggrappante e isolante per incollaggio di lastre e Isolastre su fondi porosi,/images/knauf_prodotti/Grundiermittel.webp
+Pittura idrosiliconica al quarzo,Knauf,Pittura colorata per esterni,/images/knauf_prodotti/Pitturaidrosiliconicaalquarzo.webp
+Primer per sottofondi,Knauf,"Per applicazione su sottofondi a secco e massetti fluidi, prima dell'incollaggio del rivestimento",/images/knauf_prodotti/Primerpersottofondi.webp
+Primer pigmentato,Knauf,Primer colorato parte del ciclo di finitura del sistema cappotto termico,/images/knauf_prodotti/Primerpigmentato.webp
+Spezialhaftgrund,Knauf,Primer per supporti lisci,/images/knauf_prodotti/Spezialhaftgrund.webp
+Tiefengrund,Knauf,"Primer per lastre in gesso rivestito: uniformante, aggrappante e isolante contro l'umidità",/images/knauf_prodotti/Tiefengrund.webp
+AQUAPANEL® Joint Adhesive PU,Knauf,Adesivo poliuretanico per la sigillatura dei bordi delle lastre Aquapanel Indoor,/images/knauf_prodotti/AQUAPANELJointAdhesivePU.webp
+Brio Falzkleber,Knauf,Adesivo poliuretanico per incollaggio bordi lastra Brio,/images/knauf_prodotti/BrioFalzkleber.webp
+Colla Flex per piastrelle,Knauf,"Malta a letto sottile ad alta flessibilità, extra forte e additivata con resine sintetiche.",/images/knauf_prodotti/CollaFlexperpiastrelle.webp
+Colla in polvere per piastrelle,Knauf,Colla in polvere per incollaggio di piastrelle,/images/knauf_prodotti/Collainpolvereperpiastrelle.webp
+Colla per polistirolo e polistirene,Knauf,Adesivo per uso in interno,/images/knauf_prodotti/Collaperpolistiroloepolistirene.webp
+Colla rapida per piastrelle,Knauf,Adesivo cementizio a presa rapida per incollaggio di piastrelle,/images/knauf_prodotti/Collarapidaperpiastrelle.webp
+Colla super in pasta per piastrelle,Knauf,Colla a dispersione per incollaggio di piastrelle,/images/knauf_prodotti/Collasuperinpastaperpiastrelle.webp
+Colla universale,Knauf,"Colla universale di alta qualità priva di solventi, con una buona maneggevolezza",/images/knauf_prodotti/Collauniversale.webp
+Fugante bianco,Knauf,Malta bianca per fughe fino a 8 mm di larghezza,/images/knauf_prodotti/Fugantebianco.webp
+Fugante grigio,Knauf,Malta grigia per fughe fino a 8 mm di larghezza,/images/knauf_prodotti/Fugantegrigio.webp
+Fugenkleber,Knauf,Colla per giunti per lastre in gessofibra,/images/knauf_prodotti/Fugenkleber.webp
+High-Tack Adhesive,Knauf,Collante per fissaggio lastre Fine Thermal Board,/images/knauf_prodotti/High-TackAdhesive.webp
+Nastro di guarnizione autoespandente,Knauf,Accessori per sistema cappotto termico,/images/knauf_prodotti/Nastrodiguarnizioneautoespandente.webp
+Nastro monoadesivo,Knauf,Nastro di guarnizione acustica per orditure metalliche,/images/knauf_prodotti/Nastromonoadesivo.webp
+Schiuma poliuretanica,Knauf,Schiuma poliuretanica per sigillare e isolare giunti,/images/knauf_prodotti/Schiumapoliuretanica.webp
+Sigillante,Knauf,Sigillante Knauf per interni ed esterni,/images/knauf_prodotti/Sigillante.webp
+Silicone,Knauf,Silicone Knauf per interni ed esterni,/images/knauf_prodotti/Silicone.webp
+Ancora a farfalla,Knauf,Accessori per fissaggio,/images/knauf_prodotti/Ancoraafarfalla.webp
+Aquapanel Maxi Screws punta Teks,Knauf,Viti per fissaggio di lastre Aquapanel su orditura metallica,/images/knauf_prodotti/AquapanelMaxiScrewspuntaTeks.webp
+Blocco di montaggio EPS,Knauf,Accessori per carichi pesanti in sistema cappotto termico,/images/knauf_prodotti/BloccodimontaggioEPS.webp
+Cavallotto per C Plus 60/27,Knauf,Accessori per orditure da controsoffitto,/images/knauf_prodotti/CavallottoperCPlus6027.webp
+Cavo di sospensione con gancio,Knauf,Cavetto di sospensione per isole acustiche e baffle,/images/knauf_prodotti/Cavodisospensionecongancio.webp
+Cleaneo Cap per Lastre Forate Cleaneo,Knauf,Accessori con vite per fissaggio delle lastre Cleaneo all'orditura metallica attraverso la foratura,/images/knauf_prodotti/CleaneoCapperLastreForateCleaneo.webp
+Coppiglio Nonius,Knauf,Accessori per sistema di sospensione Nonius per controsoffitti,/images/knauf_prodotti/CoppiglioNonius.webp
+Disco aggiuntivo per lana di roccia,Knauf,Accessori per tasselli da sistema cappotto termico,/images/knauf_prodotti/Discoaggiuntivoperlanadiroccia.webp
+Distanziatore Universale per 50/27,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/DistanziatoreUniversaleper5027.webp
+Distanziatore Universale per 50/27 in MgZ,Knauf,Accessori per orditure metalliche per esterni,/images/knauf_prodotti/DistanziatoreUniversaleper5027inMgZ.webp
+Distanziatore Universale per 60/27,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/DistanziatoreUniversaleper6027.webp
+EJOT® Iso-Bar,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Bar.webp
+EJOT® Iso-Dart 100,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart100.webp
+EJOT® Iso-Dart 120,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart120.webp
+EJOT® Iso-Dart 140,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart140.webp
+EJOT® Iso-Dart 160,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart160.webp
+EJOT® Iso-Dart 180,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart180.webp
+EJOT® Iso-Dart 200,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart200.webp
+EJOT® Iso-Dart 80,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Dart80.webp
+Elemento di compensazione AS,Knauf,Accessori per profilo di partenza in sistema cappotto termico,/images/knauf_prodotti/ElementodicompensazioneAS.webp
+"Ganci, clips e cavallotti",Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Ganciclipsecavallotti.webp
+Gancio combinato,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Ganciocombinato.webp
+Gancio di sospensione,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Ganciodisospensione.webp
+Gancio Nonius C5 per 60/27,Knauf,Accessori per sistema di sospensione Nonius per controsoffitti per esterni,/images/knauf_prodotti/GancioNoniusC5per6027.webp
+Gancio semplice in MgZ,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/GanciosempliceinMgZ.webp
+Giunto in PVC per profilo di partenza,Knauf,Accessori per profilo di partenza per sistema cappotto termico,/images/knauf_prodotti/GiuntoinPVCperprofilodipartenza.webp
+Giunto lineare,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Giuntolineare.webp
+Giunto lineare 60/27 Categoria C5,Knauf,Accessori per orditure metalliche per esterni,/images/knauf_prodotti/Giuntolineare6027CategoriaC5.webp
+Giunto lineare per profili a scatto,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Giuntolineareperprofiliascatto.webp
+Giunto Nonius,Knauf,Accessori per sistema di sospensione Nonius per controsoffitti,/images/knauf_prodotti/GiuntoNonius.webp
+Giunto ortogonale a raso per 60/27,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Giuntoortogonalearasoper6027.webp
+Molla di regolazione Ø 4,Knauf,Accessori per orditure da controsoffitto,/images/knauf_prodotti/MolladiregolazioneØ4.webp
+Morsetto Stalfix,Knauf,Accessori per orditure,/images/knauf_prodotti/MorsettoStalfix.webp
+Pendini e pendinaggio luci,Knauf,Accessori per sistema di sospensione per controsoffitto per grandi luci,/images/knauf_prodotti/Pendiniependinaggioluci.webp
+Pendino con occhiello aperto,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Pendinoconocchielloaperto.webp
+Pendino con occhiello aperto,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Pendinoconocchielloaperto.webp
+Pendino con occhiello aperto,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Pendinoconocchielloaperto.webp
+Pendino con occhiello aperto,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Pendinoconocchielloaperto.webp
+Pendino con occhiello aperto,Knauf,Accessori per orditure metalliche,/images/knauf_prodotti/Pendinoconocchielloaperto.webp
+Pendino Nonius,Knauf,Accessori per sistema di sospensioni Nonius,/images/knauf_prodotti/PendinoNonius.webp
+Pendino Nonius,Knauf,Accessori per sistema di sospensioni Nonius,/images/knauf_prodotti/PendinoNonius.webp
+Pendino Nonius,Knauf,Accessori per sistema di sospensioni Nonius,/images/knauf_prodotti/PendinoNonius.webp
+Piastra di montaggio universale,Knauf,Accessori per carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/Piastradimontaggiouniversale.webp
+Piattello aggiuntivo THERM VT 2G,Knauf,Accessori per tasselli da sistema cappotto termico,/images/knauf_prodotti/PiattelloaggiuntivoTHERMVT2G.webp
+Prolunga Nonius,Knauf,Accessori per sistema di sospensioni Nonius,/images/knauf_prodotti/ProlungaNonius.webp
+Rondella speciale in EPS - STR,Knauf,Accessori per sistema cappotto termico,/images/knauf_prodotti/RondellaspecialeinEPS-STR.webp
+Squadretta per profilo asolato,Knauf,Squadretta per fissaggio dei profili asolati UA,/images/knauf_prodotti/Squadrettaperprofiloasolato.webp
+Staffe di montaggio TRA-WIK-ALU-RL,Knauf,Accessori per carichi pesanti in sistema cappotto termico,/images/knauf_prodotti/StaffedimontaggioTRA-WIK-ALU-RL.webp
+Tampone a cilindro in EPS bianco STR,Knauf,Accessori per tasselli da sistema cappotto termico,/images/knauf_prodotti/TamponeacilindroinEPSbiancoSTR.webp
+Tasselli,Knauf,Accessori per fissaggio,/images/knauf_prodotti/Tasselli.webp
+Tasselli a espansione,Knauf,Accessori per fissaggio,/images/knauf_prodotti/Tasselliaespansione.webp
+Tassello ad avvitamento HTR-P,Knauf,Tassello per sistema cappotto termico,/images/knauf_prodotti/TasselloadavvitamentoHTR-P.webp
+Tassello ad avvitamento SDK U,Knauf,Tassello per sistema cappotto termico,/images/knauf_prodotti/TasselloadavvitamentoSDKU.webp
+Tassello ad avvitamento STR H,Knauf,Tassello da cappotto termico,/images/knauf_prodotti/TasselloadavvitamentoSTRH.webp
+Tassello da cappotto ad avvitamento STR H,Knauf,Tassello per sistema cappotto termico,/images/knauf_prodotti/TassellodacappottoadavvitamentoSTRH.webp
+Tassello da cappotto H2 Eco,Knauf,Tassello per sistema cappotto termico,/images/knauf_prodotti/TassellodacappottoH2Eco.webp
+Tassello da cappotto STR U 2G,Knauf,Tassello per sistema cappotto termico,/images/knauf_prodotti/TassellodacappottoSTRU2G.webp
+Tassello universale in nylon,Knauf,Accessori per fissaggio,/images/knauf_prodotti/Tassellouniversaleinnylon.webp
+Vite da cartongesso punta Teks,Knauf,Viti per fissaggio di lastre in cartongesso su orditura metallica,/images/knauf_prodotti/VitedacartongessopuntaTeks.webp
+Viti autofilettanti punta chiodo,Knauf,Viti da cartongesso,/images/knauf_prodotti/Vitiautofilettantipuntachiodo.webp
+Viti Brio,Knauf,Viti per fissaggio di lastre Brio,/images/knauf_prodotti/VitiBrio.webp
+Viti da cartongesso punta chiodo,Knauf,Viti per fissaggio di lastre in cartongesso su orditura metallica,/images/knauf_prodotti/Vitidacartongessopuntachiodo.webp
+Viti Diamant punta chiodo,Knauf,Viti per fissaggio di lastre in cartongesso ad alta densità su orditura metallica,/images/knauf_prodotti/VitiDiamantpuntachiodo.webp
+Viti Diamant punta Teks,Knauf,Viti per fissaggio di lastre in cartongesso ad alta densità su orditura metallica,/images/knauf_prodotti/VitiDiamantpuntaTeks.webp
+Viti per Lastre Forate Cleaneo,Knauf,Viti per fissaggio di lastre forate Cleaneo su orditura metallica,/images/knauf_prodotti/VitiperLastreForateCleaneo.webp
+Viti Vidiwall,Knauf,Viti per fissaggio di lastre in gessofibra su orditura metallica,/images/knauf_prodotti/VitiVidiwall.webp
+Nastro biadesivo,Knauf,Nastro di guarnizione acustica per orditure metalliche,/images/knauf_prodotti/Nastrobiadesivo.webp
+Nastro in fibra di vetro,Knauf,Accessori per la stuccatura dei giunti,/images/knauf_prodotti/Nastroinfibradivetro.webp
+Nastro in rete Top Quality,Knauf,Accessori per la stuccatura dei giunti,/images/knauf_prodotti/NastroinreteTopQuality.webp
+Nastro microforato,Knauf,Accessori per la stuccatura dei giunti,/images/knauf_prodotti/Nastromicroforato.webp
+Trennfix,Knauf,Nastro adesivo per stuccature di precisione,/images/knauf_prodotti/Trennfix.webp
+AQUAPANEL® Water Barrier,Knauf,Membrana impermeabile e traspirante per pareti di tamponamento Aquapanel,/images/knauf_prodotti/AQUAPANELWaterBarrier.webp
+Flächendicht,Knauf,Sigillante impermeabilizzante sintetico,/images/knauf_prodotti/Flächendicht.webp
+Flächendichtband,Knauf,Nastro sigillante impermeabilizzante,/images/knauf_prodotti/Flächendichtband.webp
+Alzalastre,Knauf,Attrezzo per il sollevamento delle lastre,/images/knauf_prodotti/Alzalastre.webp
+Attrezzo speciale TOOL STR 2G,Knauf,Attrezzo per sistema cappotto,/images/knauf_prodotti/AttrezzospecialeTOOLSTR2G.webp
+Cartuccia per Lastre Forate Cleaneo,Knauf,Cartuccia da riempire con stucco Uniflott per stuccatura a regola d'arte delle lastre forate Cleaneo,/images/knauf_prodotti/CartucciaperLastreForateCleaneo.webp
+Cesoie,Knauf,Cesoie per profili metallici,/images/knauf_prodotti/Cesoie.webp
+EJOT® Iso-Corner 140,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Corner140.webp
+EJOT® Iso-Corner 200,Knauf,Accessori per supporto carichi pesanti su sistema cappotto termico,/images/knauf_prodotti/EJOTIso-Corner200.webp
+Kit di ricambio per TOOL STR 2GS,Knauf,Gamma attrezzi per sistema cappotto termico,/images/knauf_prodotti/KitdiricambioperTOOLSTR2GS.webp
+"Pinza per tasselli ""Molly""",Knauf,Gamma attrezzi,/images/knauf_prodotti/PinzapertasselliMolly.webp
+Poggiapiedi per taglierina SPEWE,Knauf,Gamma attrezzi per sistema cappotto,/images/knauf_prodotti/PoggiapiedipertaglierinaSPEWE.webp
+Punta speciale High-Speed,Knauf,Gamma attrezzi per sistema cappotto termico,/images/knauf_prodotti/PuntaspecialeHigh-Speed.webp
+Punzonatrice,Knauf,Gamma attrezzi,/images/knauf_prodotti/Punzonatrice.webp
+Segaccio,Knauf,Gamma attrezzi,/images/knauf_prodotti/Segaccio.webp
+Set di montaggio per Lastre Forate Knauf,Knauf,Accessori per l'installazione a regola d'arte delle lastre Forate Cleaneo,/images/knauf_prodotti/SetdimontaggioperLastreForateKnauf.webp
+Spatola per angoli,Knauf,Gamma attrezzi,/images/knauf_prodotti/Spatolaperangoli.webp
+Spatola per rasatura,Knauf,Gamma attrezzi,/images/knauf_prodotti/Spatolaperrasatura.webp
+"Spatole, frattoni e cazzuole",Knauf,Gamma attrezzi,/images/knauf_prodotti/Spatolefrattoniecazzuole.webp
+Squadra millimetrata,Knauf,Gamma attrezzi,/images/knauf_prodotti/Squadramillimetrata.webp
+Stagge,Knauf,Gamma attrezzi,/images/knauf_prodotti/Stagge.webp
+Taglialastre e cutter,Knauf,Gamma attrezzi,/images/knauf_prodotti/Taglialastreecutter.webp
+Taglierina SPEWE 112 GT L,Knauf,Gamma attrezzi,/images/knauf_prodotti/TaglierinaSPEWE112GTL.webp
+Tampone per smerigliare,Knauf,Gamma attrezzi,/images/knauf_prodotti/Tamponepersmerigliare.webp
+Utensile d'espansione per tasselli antisfondellamento,Knauf,Attrezzo per realizzazione di controsoffitti antisfondellamento,/images/knauf_prodotti/Utensiledespansionepertasselliantisfondellamento.webp
+Cornici,Knauf,Cornici in polistirolo,/images/knauf_prodotti/Cornici.webp
+Distanziatore universale,Knauf,Distanziatore universale C5 / Acustico,/images/knauf_prodotti/Distanziatoreuniversale.webp
+Distanziatore Universale piegato 60/27,Knauf,Distanziatore universale piegato per CPlus 60/27,/images/knauf_prodotti/DistanziatoreUniversalepiegato6027.webp
+Giunto Lineare 60/27,Knauf,Giunto Lineare per CPlus 60/27,/images/knauf_prodotti/GiuntoLineare6027.webp
+Prolunga PKT,Knauf,Accessori della linea Knaufixy,/images/knauf_prodotti/ProlungaPKT.webp
+Quadrotti e pannelli,Knauf,Quadrotti decorativi in polistirolo,/images/knauf_prodotti/Quadrottiepannelli.webp
+Rosoni,Knauf,Rosoni in polistirolo,/images/knauf_prodotti/Rosoni.webp
+Sabbia quarzifera,Knauf,"Sabbia quarzifera per malte, intonaci e muratura",/images/knauf_prodotti/Sabbiaquarzifera.webp
+Spessori in PVC per bordo AMF,Knauf,Accessori per orditure a T per controsoffitti modulari,/images/knauf_prodotti/SpessoriinPVCperbordoAMF.webp
+Squadretta inferiore per profilo asolato,Knauf,Squadretta metallica per fissaggio di profili asolati,/images/knauf_prodotti/Squadrettainferioreperprofiloasolato.webp
+HERADESIGN® Baffle Element Arc Superfine,Knauf,Baffle curvi in lana di legno per infinite possibilità acustiche e di design,/images/knauf_prodotti/HERADESIGNBaffleElementArcSuperfine.webp
+HERADESIGN® Baffle Element Fine,Knauf,Soluzione economica per baffle acustici in lana di legno senza telaio,/images/knauf_prodotti/HERADESIGNBaffleElementFine.webp
+HERADESIGN® Baffle Element Fine A2,Knauf,Soluzione economica per baffle acustici in lana di legno senza telaio,/images/knauf_prodotti/HERADESIGNBaffleElementFineA2.webp
+HERADESIGN® Baffle Element Profile Fine,Knauf,Baffle acustici in lana di legno ad alte prestazioni disponibili in diverse superfici e dimensioni,/images/knauf_prodotti/HERADESIGNBaffleElementProfileFine.webp
+HERADESIGN® Baffle Element Profile Fine A2,Knauf,Baffle acustici in lana di legno ad alte prestazioni disponibili in diverse superfici e dimensioni,/images/knauf_prodotti/HERADESIGNBaffleElementProfileFineA2.webp
+HERADESIGN® Baffle Element Profile Superfine,Knauf,Baffle acustici in lana di legno ad alte prestazioni disponibili in diverse superfici e dimensioni,/images/knauf_prodotti/HERADESIGNBaffleElementProfileSuperfine.webp
+HERADESIGN® Baffle Element Profile Superfine A2,Knauf,Baffle acustici in lana di legno ad alte prestazioni disponibili in diverse superfici e dimensioni,/images/knauf_prodotti/HERADESIGNBaffleElementProfileSuperfineA2.webp
+HERADESIGN® Baffle Element Superfine,Knauf,Soluzione economica per baffle acustici in lana di legno senza telaio,/images/knauf_prodotti/HERADESIGNBaffleElementSuperfine.webp
+HERADESIGN® Baffle Element Superfine A2,Knauf,Soluzione economica per baffle acustici in lana di legno senza telaio,/images/knauf_prodotti/HERADESIGNBaffleElementSuperfineA2.webp
+HERADESIGN® Baffle Line Fine,Knauf,Baffle acustici in lana di legno ad alte prestazioni con telaio in alluminio,/images/knauf_prodotti/HERADESIGNBaffleLineFine.webp
+HERADESIGN® Baffle Line Fine A2,Knauf,Baffle acustici in lana di legno ad alte prestazioni con telaio in alluminio,/images/knauf_prodotti/HERADESIGNBaffleLineFineA2.webp
+HERADESIGN® Baffle Line Superfine,Knauf,Baffle acustici in lana di legno ad alte prestazioni con telaio in alluminio,/images/knauf_prodotti/HERADESIGNBaffleLineSuperfine.webp
+HERADESIGN® Baffle Line Superfine A2,Knauf,Baffle acustici in lana di legno ad alte prestazioni con telaio in alluminio,/images/knauf_prodotti/HERADESIGNBaffleLineSuperfineA2.webp
+HERADESIGN® Sky Element,Knauf,Pensilina acustica preassemblata in lana di legno per infinite possibilità di progettazione,/images/knauf_prodotti/HERADESIGNSkyElement.webp
+HERADESIGN® Sonic Element,Knauf,Pensiline acustiche in lana di legno disponibili in varie forme e fornite in kit,/images/knauf_prodotti/HERADESIGNSonicElement.webp
+METAL Baffle Element,Knauf,Baffle acustico lineare in metallo per installazioni singole o di gruppo,/images/knauf_prodotti/METALBaffleElement.webp
+MINERAL Baffle Element,Knauf,Baffle acustico minerale dal design lineare moderno e con buone prestazioni acustiche,/images/knauf_prodotti/MINERALBaffleElement.webp
+MINERAL Baffle Element Arc,Knauf,Baffle curvi in materiale minerale installabili singolarmente o in gruppi per creare design emozionanti,/images/knauf_prodotti/MINERALBaffleElementArc.webp
+MINERAL Baffle Line L,Knauf,Baffle acustico minerale con telaio in alluminio per un'estetica moderna e lineare,/images/knauf_prodotti/MINERALBaffleLineL.webp
+MINERAL Baffle Line N,Knauf,Baffle acustico minerale con telaio in alluminio per un'estetica moderna e lineare,/images/knauf_prodotti/MINERALBaffleLineN.webp
+MINERAL Sonic Element,Knauf,Pensilina flottante in materiale minerale disponibile in varie forme e colori per una flessibilità ottimale,/images/knauf_prodotti/MINERALSonicElement.webp
+MINERAL Sonic Line,Knauf,"Pensilina acustica minerale per soffitti, con telaio in alluminio, per definire esteticamente gli spazi",/images/knauf_prodotti/MINERALSonicLine.webp
+MINERAL Sonic Line Arc,Knauf,Pensilina acustica minerale concava e convessa per una flessibilità di progettazione ottimale,/images/knauf_prodotti/MINERALSonicLineArc.webp
+MINERAL Wallcoustic Element,Knauf,"Assorbitore acustico minerale da parete di forma quadrata o rettangolare, veloce e facile da installare",/images/knauf_prodotti/MINERALWallcousticElement.webp
+MINERAL Wallcoustic Line,Knauf,Assorbitore acustico minerale personalizzabile  da parete con telaio in alluminio preassemblato,/images/knauf_prodotti/MINERALWallcousticLine.webp
+Riparatore per fughe,Knauf,Stucco in pasta pronto per una veloce riparazione di fughe danneggiate e scolorite.,/images/knauf_prodotti/Riparatoreperfughe.webp
+Sabbia umida vagliata,Knauf,Sabbia selezionata ideale per la realizzazione di malte e intonaci,/images/knauf_prodotti/Sabbiaumidavagliata.webp
+ADAGIO Acoustic+ 24mm,Knauf,,/images/knauf_prodotti/ADAGIOAcoustic24mm.webp
+VARIOLINE Wood (Acoustic),Knauf,Piastrella per soffitto minerale effetto legno con buon assorbimento acustico ed eccellente attenuazione acustica,/images/knauf_prodotti/VARIOLINEWoodAcoustic.webp
+VARIOLINE Wood (Alpha),Knauf,Piastrella per soffitto minerale effetto legno con eccellente assorbimento acustico,/images/knauf_prodotti/VARIOLINEWoodAlpha.webp
+VARIOLINE Wood Diagonal (dB),Knauf,,/images/knauf_prodotti/VARIOLINEWoodDiagonaldB.webp
+VARIOLINE Wood Diagonal C (dB),Knauf,,/images/knauf_prodotti/VARIOLINEWoodDiagonalCdB.webp
+AMF THERMATEX® Feinstratos Hygena A1,Knauf,,/images/knauf_prodotti/AMFTHERMATEXFeinstratosHygenaA1.webp
+HERADESIGN®️ Fine A2 Alpha+ 15mm,Knauf,Piastrella acustica in lana di legno finemente strutturata con eccellente resistenza al fuoco e buone prestazioni acustiche,/images/knauf_prodotti/HERADESIGNFineA2Alpha15mm.webp
+HERADESIGN® Fine A2 Alpha+ 25mm,Knauf,Piastrella acustica in lana di legno finemente strutturata con eccellente resistenza al fuoco e alta performance acustica,/images/knauf_prodotti/HERADESIGNFineA2Alpha25mm.webp
+HERADESIGN® Fine Plus 55mm,Knauf,,/images/knauf_prodotti/HERADESIGNFinePlus55mm.webp
+HERADESIGN® Superfine Plus 55mm,Knauf,,/images/knauf_prodotti/HERADESIGNSuperfinePlus55mm.webp
+PLAIN 19mm,Knauf,,/images/knauf_prodotti/PLAIN19mm.webp
+AMF VENTATEC®  F Cornici perimetrali,Knauf,,/images/knauf_prodotti/AMFVENTATECFCorniciperimetrali.webp
+AMF VENTATEC® Shadowline Cornici perimetrali,Knauf,,/images/knauf_prodotti/AMFVENTATECShadowlineCorniciperimetrali.webp
+AMF VENTATEC® T15 - Profili portanti,Knauf,,/images/knauf_prodotti/AMFVENTATECT15-Profiliportanti.webp
+AMF VENTATEC® T15 SG - Traversini,Knauf,,/images/knauf_prodotti/AMFVENTATECT15SG-Traversini.webp
+AMF VENTATEC® T24 - Profili portanti,Knauf,,/images/knauf_prodotti/AMFVENTATECT24-Profiliportanti.webp
+AMF VENTATEC® T24 GK - Traversini,Knauf,,/images/knauf_prodotti/AMFVENTATECT24GK-Traversini.webp
+AMF VENTATEC® T24 SG - Traversini,Knauf,,/images/knauf_prodotti/AMFVENTATECT24SG-Traversini.webp
+AXONIS Cornici perimetrali,Knauf,,/images/knauf_prodotti/AXONISCorniciperimetrali.webp
+AXONIS Profili,Knauf,,/images/knauf_prodotti/AXONISProfili.webp
+AXONIS Transizione,Knauf,,/images/knauf_prodotti/AXONISTransizione.webp
+C profile Bandraster Donn 100,Knauf,,/images/knauf_prodotti/CprofileBandrasterDonn100.webp
+C profile Bandraster Donn 125,Knauf,,/images/knauf_prodotti/CprofileBandrasterDonn125.webp
+C profile Bandraster Donn 150,Knauf,,/images/knauf_prodotti/CprofileBandrasterDonn150.webp
+C profile Bandraster Donn 50,Knauf,,/images/knauf_prodotti/CprofileBandrasterDonn50.webp
+C profile Bandraster Donn 75,Knauf,,/images/knauf_prodotti/CprofileBandrasterDonn75.webp
+C profile system,Knauf,,/images/knauf_prodotti/Cprofilesystem.webp
+Concealed C profile,Knauf,,/images/knauf_prodotti/ConcealedCprofile.webp
+Concealed L profile,Knauf,,/images/knauf_prodotti/ConcealedLprofile.webp
+Concealed profiles spacer bar,Knauf,,/images/knauf_prodotti/Concealedprofilesspacerbar.webp
+Concealed profiles stabilizer bar,Knauf,,/images/knauf_prodotti/Concealedprofilesstabilizerbar.webp
+Concealed T profile,Knauf,,/images/knauf_prodotti/ConcealedTprofile.webp
+Concealed Z profile,Knauf,,/images/knauf_prodotti/ConcealedZprofile.webp
+DONN®  C Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNCCorniciperimetrali.webp
+DONN®  F Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNFCorniciperimetrali.webp
+DONN®  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNLCorniciperimetrali.webp
+DONN®  Shadowline  W Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNShadowlineWCorniciperimetrali.webp
+DONN® 24-CE - Profili portanti,Knauf,,/images/knauf_prodotti/DONN24-CE-Profiliportanti.webp
+DONN® DX15 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNDX15-Profiliportanti.webp
+DONN® DX15 GK - Traversini,Knauf,,/images/knauf_prodotti/DONNDX15GK-Traversini.webp
+DONN® DX24 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNDX24-Profiliportanti.webp
+DONN® DX24 GK - Traversini,Knauf,,/images/knauf_prodotti/DONNDX24GK-Traversini.webp
+DONN® DX24 KB  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNDX24KBLCorniciperimetrali.webp
+DONN® DX24 KB - Profili portanti,Knauf,,/images/knauf_prodotti/DONNDX24KB-Profiliportanti.webp
+DONN® DX24 KB GK - Traversini,Knauf,,/images/knauf_prodotti/DONNDX24KBGK-Traversini.webp
+DONN® DX24 SG - Traversini,Knauf,,/images/knauf_prodotti/DONNDX24SG-Traversini.webp
+DONN® DX24-CE  C Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNDX24-CECCorniciperimetrali.webp
+DONN® DX24-CE GK - Traversini,Knauf,,/images/knauf_prodotti/DONNDX24-CEGK-Traversini.webp
+DONN® DX3-24 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNDX3-24-Profiliportanti.webp
+DONN® DX3-24 GK - Traversini,Knauf,,/images/knauf_prodotti/DONNDX3-24GK-Traversini.webp
+DONN® DX35 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNDX35-Profiliportanti.webp
+DONN® DX35 GK - Traversini,Knauf,,/images/knauf_prodotti/DONNDX35GK-Traversini.webp
+DONN® Espace 24 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNEspace24-Profiliportanti.webp
+DONN® Espace 35 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNEspace35-Profiliportanti.webp
+DONN® Espace Corridor 24 - Profili portanti,Knauf,,/images/knauf_prodotti/DONNEspaceCorridor24-Profiliportanti.webp
+DONN® KB  C Cornici perimetrali,Knauf,,/images/knauf_prodotti/DONNKBCCorniciperimetrali.webp
+DP12 A-bar system,Knauf,,/images/knauf_prodotti/DP12A-barsystem.webp
+Flexible  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/FlexibleLCorniciperimetrali.webp
+G profile system,Knauf,,/images/knauf_prodotti/Gprofilesystem.webp
+H profile system,Knauf,,/images/knauf_prodotti/Hprofilesystem.webp
+J-bar system,Knauf,,/images/knauf_prodotti/J-barsystem.webp
+L profile system,Knauf,,/images/knauf_prodotti/Lprofilesystem.webp
+MERIDIAN DX  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/MERIDIANDXLCorniciperimetrali.webp
+MERIDIAN DX - Profili portanti,Knauf,,/images/knauf_prodotti/MERIDIANDX-Profiliportanti.webp
+MERIDIAN DX - Traversini,Knauf,,/images/knauf_prodotti/MERIDIANDX-Traversini.webp
+METAL Aluminium L Cornici perimetrali,Knauf,,/images/knauf_prodotti/METALAluminiumLCorniciperimetrali.webp
+METAL Shadowline  W Cornici perimetrali,Knauf,,/images/knauf_prodotti/METALShadowlineWCorniciperimetrali.webp
+METAL Shadowline Aluminium  W Cornici perimetrali,Knauf,,/images/knauf_prodotti/METALShadowlineAluminiumWCorniciperimetrali.webp
+PERFECTLINE XL² - Traversini,Knauf,,/images/knauf_prodotti/PERFECTLINEXL²-Traversini.webp
+PERFECTLINE XL² 15  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/PERFECTLINEXL²15LCorniciperimetrali.webp
+PERFECTLINE XL² 15 - Profili portanti,Knauf,,/images/knauf_prodotti/PERFECTLINEXL²15-Profiliportanti.webp
+Primary angle system,Knauf,,/images/knauf_prodotti/Primaryanglesystem.webp
+RAPID’FIX® - Profili portanti,Knauf,,/images/knauf_prodotti/RAPIDFIX-Profiliportanti.webp
+RAPID’FIX® Espace  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/RAPIDFIXEspaceLCorniciperimetrali.webp
+RAPID’FIX® Espace - Profili portanti,Knauf,,/images/knauf_prodotti/RAPIDFIXEspace-Profiliportanti.webp
+RAPID’FIX® GK - Traversini,Knauf,,/images/knauf_prodotti/RAPIDFIXGK-Traversini.webp
+SEISMIC KX  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/SEISMICKXLCorniciperimetrali.webp
+SEISMIC KX - Profili portanti,Knauf,,/images/knauf_prodotti/SEISMICKX-Profiliportanti.webp
+SEISMIC KX - Traversini,Knauf,,/images/knauf_prodotti/SEISMICKX-Traversini.webp
+Spring T-bar,Knauf,,/images/knauf_prodotti/SpringT-bar.webp
+System UNO 30 Cornici perimetrali,Knauf,,/images/knauf_prodotti/SystemUNO30Corniciperimetrali.webp
+U profile system,Knauf,,/images/knauf_prodotti/Uprofilesystem.webp
+VENTATEC  L Cornici perimetrali,Knauf,,/images/knauf_prodotti/VENTATECLCorniciperimetrali.webp
+VIC - Profili portanti,Knauf,,/images/knauf_prodotti/VIC-Profiliportanti.webp
+VARIOLINE Metal (Acoustic),Knauf,Piastrella per soffitto minerale effetto metallo con buon assorbimento acustico ed eccellente attenuazione acustica,/images/knauf_prodotti/VARIOLINEMetalAcoustic.webp
+VARIOLINE Metal (dB),Knauf,Piastrella per soffitto minerale effetto metallo con buon assorbimento acustico e alta attenuazione acustica,/images/knauf_prodotti/VARIOLINEMetaldB.webp
+VARIOLINE Wood (dB),Knauf,Piastrella per soffitto minerale effetto legno con buon assorbimento acustico e alta attenuazione acustica,/images/knauf_prodotti/VARIOLINEWooddB.webp
+Sheet metal angle,Knauf,,/images/knauf_prodotti/Sheetmetalangle.webp
